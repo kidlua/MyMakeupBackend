@@ -1,0 +1,712 @@
+{
+    "detected_skin_tone": "Light",
+    "detected_lip_shape": "Normal-Lips",
+    "mapped_skin_tone": "Light",
+    "mapped_lip_shape": "Normal",
+    "recommendations": [
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/16.jpeg",
+            "product_name": "Simplicity Cotton Lip Clay O146 Nude Latte",
+            "product_category": "Y.O.U",
+            "price": 24.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/21.jpeg",
+            "product_name": "Creamatte 07 Tumbleweed 5.5 gr",
+            "product_category": "EMINA",
+            "price": 11.82,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/48.jpeg",
+            "product_name": "Megalast  Lock n' Shine Lip Color Pinky Promise",
+            "product_category": "WET N WILD",
+            "price": 36.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/58.jpeg",
+            "product_name": "Berry Makes Comfort Lip Matte 01",
+            "product_category": "BARE N BLISS",
+            "price": 32.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/84.jpeg",
+            "product_name": "Watery Tint Lip Matte M2",
+            "product_category": "CEZANNE",
+            "price": 29.94,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/91.jpeg",
+            "product_name": "Fix Bar 01 Lively Red",
+            "product_category": "ETUDE HOUSE",
+            "price": 51.1,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/96.jpeg",
+            "product_name": "Glossip Girl Lip Cream 01 Nudeze 2g",
+            "product_category": "DAZZLE ME",
+            "price": 14.5,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/104.jpeg",
+            "product_name": "Lip Monster Souffle Matte M03",
+            "product_category": "KATE",
+            "price": 61.83,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/117.jpeg",
+            "product_name": "Ink Airy Velvet 021 Fluffy Peach",
+            "product_category": "PERIPERA",
+            "price": 49.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/133.jpeg",
+            "product_name": "Zero Matte Lipstick 02 All That Jazz",
+            "product_category": "ROM&ND",
+            "price": 55.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/140.jpeg",
+            "product_name": "Glasting Water Tint 05 Rose Splash",
+            "product_category": "ROM&ND",
+            "price": 62.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/152.jpeg",
+            "product_name": "Zero Matte Lipstick 07 Envy Me",
+            "product_category": "ROM&ND",
+            "price": 55.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/159.jpeg",
+            "product_name": "Blur Fudge Tint 04 Radwood",
+            "product_category": "ROM&ND",
+            "price": 59.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/168.jpeg",
+            "product_name": "Milk Tea Velvet Tint 05 Vanilla Tea",
+            "product_category": "ROM&ND",
+            "price": 49.6,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/169.jpeg",
+            "product_name": "Blur Fudge Tint 06 Mauvish",
+            "product_category": "ROM&ND",
+            "price": 59.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/186.jpeg",
+            "product_name": "Colorfit LAD Lip Paint 07 Brick On 4.2g",
+            "product_category": "WARDAH",
+            "price": 22.32,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/200.jpeg",
+            "product_name": "Blooming Matte Lipstick Morning Glory BML02",
+            "product_category": "IN2IT",
+            "price": 12.45,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/201.jpeg",
+            "product_name": "Blooming Moist Lipstick Primrose BMI06",
+            "product_category": "IN2IT",
+            "price": 12.45,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/211.jpeg",
+            "product_name": "Blooming Lipstick 01 Nina 1S",
+            "product_category": "SON&PARK",
+            "price": 65.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/214.jpeg",
+            "product_name": "Realway Velvet Lipstick #1 Urban Rose",
+            "product_category": "LUNA",
+            "price": 69.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/219.jpeg",
+            "product_name": "Professional Liquid Matte Lipstick Selfless PVM06",
+            "product_category": "IN2IT",
+            "price": 22.41,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/235.jpeg",
+            "product_name": "Mean Girls Matte Lip",
+            "product_category": "IRISA COSMETICS",
+            "price": 49.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/241.jpeg",
+            "product_name": "SG GEN MATTE LIP CRM 09 G.ROSE",
+            "product_category": "SILKYGIRL",
+            "price": 26.91,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/242.jpeg",
+            "product_name": "Wardah Exclusive Lip Cream 14 HB",
+            "product_category": "WARDAH",
+            "price": 26.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/260.jpeg",
+            "product_name": "Simplicity Cotton Lip Clay R858 Honey Coral",
+            "product_category": "Y.O.U",
+            "price": 24.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/271.jpeg",
+            "product_name": "Dewy Ful Water Tint 05 Taffy",
+            "product_category": "ROM&ND",
+            "price": 59.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/273.jpeg",
+            "product_name": "Dewy Ful Water Tint 04 Chili Up",
+            "product_category": "ROM&ND",
+            "price": 59.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/279.jpeg",
+            "product_name": "Magic Potion 01 Scarlet 5.5 ml",
+            "product_category": "EMINA",
+            "price": 13.79,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/280.jpeg",
+            "product_name": "Glossy Stain 01 Autumn Bell 3 g",
+            "product_category": "EMINA",
+            "price": 22.5,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/292.jpeg",
+            "product_name": "Lip Cushion 03. Get Berry 9 g",
+            "product_category": "EMINA",
+            "price": 13.5,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/295.jpeg",
+            "product_name": "Creamatte 12 Perky Plum 5.5 gr",
+            "product_category": "EMINA",
+            "price": 11.82,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/307.jpeg",
+            "product_name": "[2 Boxes] Tea Flower Mushroom 150gm",
+            "product_category": "SOON THYE HANG",
+            "price": 70.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/310.jpeg",
+            "product_name": "Colorfit Velvet Matte Lip Mousse 14 Dainty Caramel",
+            "product_category": "WARDAH",
+            "price": 25.42,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/329.jpeg",
+            "product_name": "Colorfit Velvet Matte Lip Mousse 15 Tranquil Hazel",
+            "product_category": "WARDAH",
+            "price": 25.42,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/337.jpeg",
+            "product_name": "Colorfit Velvet Matte Lip Mousse 10 Lively Coral",
+            "product_category": "WARDAH",
+            "price": 25.42,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/339.jpeg",
+            "product_name": "Winnie The Pooh Lip Matte 01 Pooh",
+            "product_category": "DISNEY",
+            "price": 35.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/344.jpeg",
+            "product_name": "Super Stay Vinyl Ink 10 Lippy",
+            "product_category": "MAYBELLINE",
+            "price": 34.39,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/346.jpeg",
+            "product_name": "HD Matte Lip Devotion 1's",
+            "product_category": "REVLON",
+            "price": 42.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/349.jpeg",
+            "product_name": "Colorfit LAD Lip Paint 02 Eternal Sunset 4.2g",
+            "product_category": "WARDAH",
+            "price": 22.32,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/360.jpeg",
+            "product_name": "Moisture Rich Lipcolor 01 Naked",
+            "product_category": "SILKYGIRL",
+            "price": 18.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/389.jpeg",
+            "product_name": "Super Stay Matte Ink Mood Maker Collection 455",
+            "product_category": "MAYBELLINE",
+            "price": 21.45,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/390.jpeg",
+            "product_name": "Ultimatte Lipstick 1299 More Spice",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/394.jpeg",
+            "product_name": "MLBB Lip Tint 01 Autumn 1's",
+            "product_category": "SILKYGIRL",
+            "price": 18.32,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/424.jpeg",
+            "product_name": "Color Riche Slim Matte Intense Lipstick 275",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 38.1,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/425.jpeg",
+            "product_name": "Super Stay Vinyl Ink Nude Shock 61 Risky",
+            "product_category": "MAYBELLINE",
+            "price": 34.39,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/438.jpeg",
+            "product_name": "Super Stay Matte Ink City Collection 130",
+            "product_category": "MAYBELLINE",
+            "price": 27.89,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/446.jpeg",
+            "product_name": "Whoops! Matte Lip Cream C06 Come On",
+            "product_category": "BT'S",
+            "price": 13.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/452.jpeg",
+            "product_name": "Sensational Cushion Matte CM10 The Cool Rebel",
+            "product_category": "MAYBELLINE",
+            "price": 23.94,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/455.jpeg",
+            "product_name": "Ultimatte Lipstick 699 More Buff",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/462.jpeg",
+            "product_name": "Bio-Cleanse Pure Vit C Cloud Foam Cleanser 100g",
+            "product_category": "BIO-ESSENCE",
+            "price": 16.03,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/474.jpeg",
+            "product_name": "Superstay Vinyl Ink Music 65 Saucy",
+            "product_category": "MAYBELLINE",
+            "price": 42.32,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/479.jpeg",
+            "product_name": "Fresh Colour Matte Lipstick Sand Nude FCM02",
+            "product_category": "SIMPLYSITI",
+            "price": 32.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/481.jpeg",
+            "product_name": "Ultimatte Lipstick 288 More Auburn",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/493.jpeg",
+            "product_name": "OMG! Power Matte Lip Color 02 Mocha 1's",
+            "product_category": "SILKYGIRL",
+            "price": 26.01,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/505.jpeg",
+            "product_name": "Beauty Gold Powder Wash 15s",
+            "product_category": "SUISAI",
+            "price": 49.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/525.jpeg",
+            "product_name": "Ink Mood Matte Tint #15 Acorn Brown",
+            "product_category": "PERIPERA",
+            "price": 39.2,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/526.jpeg",
+            "product_name": "Matte Everlasting Extreme L/Creme 111 Taupe 4ml",
+            "product_category": "C.CODE",
+            "price": 20.18,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/535.jpeg",
+            "product_name": "Colorfit LAD Lip Paint 12 Berry Lasting 4.2g",
+            "product_category": "WARDAH",
+            "price": 13.95,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/544.jpeg",
+            "product_name": "Lasting Gloss Lip 501",
+            "product_category": "CEZANNE",
+            "price": 29.93,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/552.jpeg",
+            "product_name": "Objet Liquid 012 Symbol",
+            "product_category": "MUZIGAE MANSION",
+            "price": 72.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/553.jpeg",
+            "product_name": "Objet Liquid 004 Affection",
+            "product_category": "MUZIGAE MANSION",
+            "price": 72.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/555.jpeg",
+            "product_name": "OMBRELLA Lip Totem Tint - Undercover 1S",
+            "product_category": "SOMEThinC",
+            "price": 22.5,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/560.jpeg",
+            "product_name": "Paint It Nude PI01",
+            "product_category": "IN2IT",
+            "price": 31.41,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/579.jpeg",
+            "product_name": "Dewy Ful Water Tint 12 Canyon",
+            "product_category": "ROM&ND",
+            "price": 59.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/581.jpeg",
+            "product_name": "16H 2in1 Longlasting Lip Colour No. 23",
+            "product_category": "DERMACOL",
+            "price": 49.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/585.jpeg",
+            "product_name": "Glasting Water Gloss 00 Meteor Track",
+            "product_category": "ROM&ND",
+            "price": 52.7,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/601.jpeg",
+            "product_name": "Colorfit LAD Lip Paint 10 Forever Mauve 4.2g",
+            "product_category": "WARDAH",
+            "price": 13.95,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/616.jpeg",
+            "product_name": "Lip Monster Souffle Matte M07",
+            "product_category": "KATE",
+            "price": 61.83,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/621.jpeg",
+            "product_name": "Watery Glow Lipstick 07",
+            "product_category": "JUDYDOLL",
+            "price": 49.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/624.jpeg",
+            "product_name": "Lip Mud P15",
+            "product_category": "JUDYDOLL",
+            "price": 39.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/625.jpeg",
+            "product_name": "Lip Mud P12",
+            "product_category": "JUDYDOLL",
+            "price": 39.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/641.jpeg",
+            "product_name": "Lip Color Shied 04 Mellow Pink",
+            "product_category": "CEZANNE",
+            "price": 34.93,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/644.jpeg",
+            "product_name": "Objet Liquid 006 Notable",
+            "product_category": "MUZIGAE MANSION",
+            "price": 72.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/648.jpeg",
+            "product_name": "Objet Liquid 011 Poise",
+            "product_category": "MUZIGAE MANSION",
+            "price": 72.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/652.jpeg",
+            "product_name": "Objet Liquid 002 Sequence",
+            "product_category": "MUZIGAE MANSION",
+            "price": 72.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/662.jpeg",
+            "product_name": "Idol Blurry Soft Lip Matte - Pokerface 1S",
+            "product_category": "SOMEThinC",
+            "price": 28.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/663.jpeg",
+            "product_name": "Idol Blurry Soft Lip Matte - Encore 1S",
+            "product_category": "SOMEThinC",
+            "price": 28.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/667.jpeg",
+            "product_name": "Garden Walk Lipstick Matte 01",
+            "product_category": "ZA",
+            "price": 31.92,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/679.jpeg",
+            "product_name": "Superstay Vinyl Ink Music 30 Unrival",
+            "product_category": "MAYBELLINE",
+            "price": 42.32,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/684.jpeg",
+            "product_name": "Cream De Rose Tint 03 Dreaming",
+            "product_category": "DASIQUE",
+            "price": 68.0,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/685.jpeg",
+            "product_name": "Juicy Dewy Tint 12 Sweet Marron",
+            "product_category": "DASIQUE",
+            "price": 54.4,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/686.jpeg",
+            "product_name": "Water Blur Tint 02 Just Peach",
+            "product_category": "DASIQUE",
+            "price": 47.6,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/688.jpeg",
+            "product_name": "Juicy Dewy Tint 17 Fig Berry",
+            "product_category": "DASIQUE",
+            "price": 54.4,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/703.jpeg",
+            "product_name": "Pout Bomb Plumping Gloss Glaze 4.6ml",
+            "product_category": "REVOLUTION",
+            "price": 44.91,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/704.jpeg",
+            "product_name": "Megalast  Lock n' Shine Lip Color Nude Illusion",
+            "product_category": "WET N WILD",
+            "price": 36.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/723.jpeg",
+            "product_name": "Glossy Stain 04 Peach Sprinkles 3 g",
+            "product_category": "EMINA",
+            "price": 22.5,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/724.jpeg",
+            "product_name": "Creamatte 08 Pumpkin Spice 5.5 gr",
+            "product_category": "EMINA",
+            "price": 11.82,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/lipstick_images/738.jpeg",
+            "product_name": "Megalast  Lock n' Shine Lip Color Big Pout Energy",
+            "product_category": "WET N WILD",
+            "price": 36.9,
+            "skin_tone": "Light",
+            "lip_shape": "Normal"
+        }
+    ]
+}

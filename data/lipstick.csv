@@ -1,0 +1,756 @@
+image_source,product_name,product_category,price,skin_tone,lip_shape
+https://imagesmfl.s3.amazonaws.com/lipstick_images/1.jpeg,Bentong Ginger Powder 100gm 1s,SOON THYE HANG,RM58.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/2.jpeg,Infallible Matte Resistance Pink 210 Tropical Vacay,L'OREAL PARIS MAKEUP,RM47.53,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/3.jpeg,Pout Bomb Plumping Gloss Candy 4.6ml,REVOLUTION,RM44.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/4.jpeg,Filter Finish Lip Crème Espresso Nude1.8ml,REVOLUTION,RM44.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/5.jpeg,Filter Finish Lip Crème Chai Nude 1.8ml,REVOLUTION,RM44.91,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/6.jpeg,Liquid Matte VM04 1's,IN2IT,RM14.34,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/7.jpeg,Cherry Makes Cheerful Lip Velvet 04,BARE N BLISS,RM32.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/8.jpeg,Cherry Makes Cheerful Lip Velvet 03,BARE N BLISS,RM32.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/9.jpeg,Ultra HD Matte Lipcolor 660 Romance 1's,REVLON,RM42.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/10.jpeg,Lip2Cheek Flush 01 H.Peach,SILKYGIRL,RM26.91,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/11.jpeg,Glasting Melting Balm 03 Sorbet Balm,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/12.jpeg,Glasting Melting Balm 05 Nougat Sand,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/13.jpeg,Glasting Melting Balm 07 Mauve Whip,ROM&ND,RM59.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/14.jpeg,Exclusive Matte Lip Cream 09 Mauve On 1's,WARDAH,RM26.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/15.jpeg,Exclusive Matte Lip Cream 06 Feeling Red 1's,WARDAH,RM26.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/16.jpeg,Simplicity Cotton Lip Clay O146 Nude Latte,Y.O.U,RM24.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/17.jpeg,Glasting Water Gloss 00 Meteor Track,ROM&ND,RM52.70,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/18.jpeg,Magic Potion 06 Sassy 5.5 ml,EMINA,RM19.70,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/19.jpeg,Glossy Stain 02 Apple Shower 3 g,EMINA,RM22.50,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/20.jpeg,Creamatte 14 Gingerale 5.5 gr,EMINA,RM11.82,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/21.jpeg,Creamatte 07 Tumbleweed 5.5 gr,EMINA,RM11.82,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/22.jpeg,Creamatte 13 Beet Bites 5.5 gr,EMINA,RM11.82,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/23.jpeg,Watery Tint Lip 02 Coral Red,CEZANNE,RM29.94,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/24.jpeg,Watery Tint Lip 03 Beige Brown,CEZANNE,RM29.94,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/25.jpeg,Scented Roll On Lip Gloss - Mint 5.9ml,BLOSSOM,RM43.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/26.jpeg,Ink Velvet Ad 08 Sellout Red,PERIPERA,RM44.10,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/27.jpeg,Ink Velvet Ad 02 Celeb Deep Rose,PERIPERA,RM44.10,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/28.jpeg,Ink Velvet Ad 01 Good Brick,PERIPERA,RM44.10,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/29.jpeg,Lip2Cheek Flush 04 P.Love,SILKYGIRL,RM26.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/30.jpeg,Glasting Melting Balm 15 Pecan Brew,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/31.jpeg,Glasting Melting Balm 14 Dear Apple,ROM&ND,RM59.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/32.jpeg,Ink Glasting Lip Gloss 02 Edge Nude,PERIPERA,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/33.jpeg,Iced Tea Watery Lip Gloss 12,JUDYDOLL,RM39.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/34.jpeg,Iced Tea Watery Lip Gloss 11,JUDYDOLL,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/35.jpeg,Iced Tea Watery Lip Gloss B10,JUDYDOLL,RM39.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/36.jpeg,Iced Tea Watery Lip Gloss N05,JUDYDOLL,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/37.jpeg,Iced Tea Watery Lip Gloss C02,JUDYDOLL,RM39.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/38.jpeg,Iced Tea Watery Lip Gloss N01,JUDYDOLL,RM39.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/39.jpeg,Infallible Matte Resistance Nude 105 Breakfast In Bed,L'OREAL PARIS MAKEUP,RM47.53,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/40.jpeg,Chiffon Signature Lip 222 I Impassion,L'OREAL PARIS MAKEUP,RM41.93,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/41.jpeg,Chiffon Signature Lip 225 I Grasp,L'OREAL PARIS MAKEUP,RM41.93,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/42.jpeg,Chiffon Signature Lip 221 I Reach Out,L'OREAL PARIS MAKEUP,RM41.93,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/43.jpeg,Pout Bomb Plumping Gloss Kiss 4.6ml,REVOLUTION,RM44.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/44.jpeg,Filter Finish Lip Crème Caramel Syrup 1.8ml,REVOLUTION,RM44.91,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/45.jpeg,Filter Finish Lip Crème Burnt Cinnamon 1.8ml,REVOLUTION,RM44.91,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/46.jpeg,Filter Finish Lip Crème Frappucino Nude 1.8ml,REVOLUTION,RM44.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/47.jpeg,Megalast  Lock n' Shine Lip Color Red-y-for me,WET N WILD,RM36.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/48.jpeg,Megalast  Lock n' Shine Lip Color Pinky Promise,WET N WILD,RM36.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/49.jpeg,Megalast  Lock n' Shine Lip Color LA Pink,WET N WILD,RM36.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/50.jpeg,Megalast  Lock n' Shine Lip Color Shining Hibiscus,WET N WILD,RM36.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/51.jpeg,Megalast  Lock n' Shine Lip Color Irresistible,WET N WILD,RM36.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/52.jpeg,Kuromi Glasting Water Gloss 00 Meteo Track,ROM&ND,RM62.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/53.jpeg,Liquid Matte VM01 1's,IN2IT,RM14.34,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/54.jpeg,Liquid Matte VM03 1's,IN2IT,RM14.34,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/55.jpeg,Cherry Makes Cheerful Lip Velvet 05,BARE N BLISS,RM32.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/56.jpeg,Berry Makes Comfort Lip Matte 04,BARE N BLISS,RM32.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/57.jpeg,Berry Makes Comfort Lip Matte 02,BARE N BLISS,RM32.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/58.jpeg,Berry Makes Comfort Lip Matte 01,BARE N BLISS,RM32.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/59.jpeg,Lip2Cheek Flush 02 Td.Rose,SILKYGIRL,RM26.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/60.jpeg,Lush & Lustrous Jojoba Oil-Infused LG R61 Rich,BINTI'S,RM17.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/61.jpeg,Lush & Lustrous Jojoba Oil-Infused LG C61 Classic,BINTI'S,RM17.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/62.jpeg,Matte Junkie Lip Cream GL02 Glamour 1's,SILKYGIRL,RM26.01,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/63.jpeg,Lasting Mega Matte Liq Lip 810 Plum This Show,RIMMEL,RM33.91,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/64.jpeg,Lasting Mega Matte Liq Lip 709 Strapless,RIMMEL,RM33.91,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/65.jpeg,Lasting Mega Matte Liq Lip 700 Be My Baby,RIMMEL,RM33.91,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/66.jpeg,Lasting Mega Matte Liq Lip 500 Fire Starter,RIMMEL,RM33.91,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/67.jpeg,Lasting Mega Matte Liq Lip 210 Rose & Shine,RIMMEL,RM33.91,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/68.jpeg,Lasting Mega Matte Liq Lip 200 Pink Blink,RIMMEL,RM33.91,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/69.jpeg,Lasting Mega Matte Liq Lip 110 Blush,RIMMEL,RM33.91,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/70.jpeg,Ink Airy Velvet 030 Wake Up Cherry,PERIPERA,RM49.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/71.jpeg,Ink Airy Velvet 029 What Are You Fig,PERIPERA,RM49.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/72.jpeg,Ink Airy Velvet 026 Apricot Peach,PERIPERA,RM49.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/73.jpeg,Misty Matte Lip Cream 04 Poppy 2.2g,DAZZLE ME,RM14.50,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/74.jpeg,Lasting Finish Provocalips 440 Maroon Swoon,RIMMEL,RM49.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/75.jpeg,Lasting Finish Provocalips 500 Kiss The Town Red,RIMMEL,RM49.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/76.jpeg,Lasting Finish Provocalips 310 Pouting Pink,RIMMEL,RM49.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/77.jpeg,Argan Wonder Lipstick Plum Paradise AWL01,SIMPLYSITI,RM37.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/78.jpeg,Argan Wonder Lipstick Lovely Pink AWL02,SIMPLYSITI,RM30.32,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/79.jpeg,Fresh Colour Lips & Cheek Colour Dusty Rose FLC02,SIMPLYSITI,RM21.54,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/80.jpeg,Facefinity Smooth 2Way Foundation Warm PFE301,IN2IT,RM43.11,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/81.jpeg,ColorStay Suede Ink Lipstick 002 No Rules,REVLON,RM45.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/82.jpeg,Lip Color Shield 02,CEZANNE,RM34.93,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/83.jpeg,Lip Color Shield 01,CEZANNE,RM34.93,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/84.jpeg,Watery Tint Lip Matte M2,CEZANNE,RM29.94,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/85.jpeg,Fix Bar 03 Milk Caramel,ETUDE HOUSE,RM51.10,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/86.jpeg,Lush & Classy Matte Lip Color P64 Prestige,BINTI'S,RM17.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/87.jpeg,Fresh Colour Moist Lipstick Dessert Taupe FCM08,SIMPLYSITI,RM32.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/88.jpeg,Fix Bar 05 Mauve Pink,ETUDE HOUSE,RM51.10,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/89.jpeg,Fix Bar 04 Coral Rose,ETUDE HOUSE,RM51.10,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/90.jpeg,Fix Bar 02 Clear Berry,ETUDE HOUSE,RM51.10,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/91.jpeg,Fix Bar 01 Lively Red,ETUDE HOUSE,RM51.10,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/92.jpeg,Soft Matte Lip Cream Manila,MIKASERIES,RM39.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/93.jpeg,Soft Matte Lip Cream Cairo,MIKASERIES,RM39.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/94.jpeg,Soft Matte Lip Cream Oslo,MIKASERIES,RM39.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/95.jpeg,Soft Matte Lip Cream Dubai,MIKASERIES,RM39.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/96.jpeg,Glossip Girl Lip Cream 01 Nudeze 2g,DAZZLE ME,RM14.50,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/97.jpeg,Ink Velvet 36 Active Coral,PERIPERA,RM44.10,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/98.jpeg,Ink Velvet 38 Bright Pink,PERIPERA,RM44.10,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/99.jpeg,Ink Velvet 35 Spring Salmon,PERIPERA,RM44.10,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/100.jpeg,Ink Velvet 37 Enjoy Mute,PERIPERA,RM44.10,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/101.jpeg,Timeless Matte Lipstick Classy Amber TLP02,SIMPLYSITI,RM28.72,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/102.jpeg,Timeless Matte Lipstick Modest Coral TLP03,SIMPLYSITI,RM28.72,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/103.jpeg,Lip Monster Souffle Matte M04,KATE,RM48.09,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/104.jpeg,Lip Monster Souffle Matte M03,KATE,RM61.83,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/105.jpeg,Lip Monster Souffle Matte M01,KATE,RM61.83,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/106.jpeg,Lip Monster Souffle Matte M02,KATE,RM61.83,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/107.jpeg,Velvet Love Lip Color C07 Cyra,BT'S,RM13.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/108.jpeg,Ink Mood Matte Tint #14 Make Up Chili,PERIPERA,RM39.20,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/109.jpeg,Dewy Ful Water Tint 03 If Rose,ROM&ND,RM59.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/110.jpeg,16H 2in1 Longlasting Lip Colour No. 31,DERMACOL,RM49.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/111.jpeg,Whoops! Matte Lip Cream P06 Party On,BT'S,RM13.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/112.jpeg,Whoops! Matte Lip Cream B04 Bite Me,BT'S,RM13.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/113.jpeg,Whoops! Matte Lip Cream R03 Rock It,BT'S,RM13.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/114.jpeg,Ink Airy Velvet 023 In The PeachLight,PERIPERA,RM49.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/115.jpeg,Ink Airy Velvet 024 Heavenly Peach,PERIPERA,RM49.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/116.jpeg,Ink Airy Velvet 022 Center Peach,PERIPERA,RM49.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/117.jpeg,Ink Airy Velvet 021 Fluffy Peach,PERIPERA,RM49.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/118.jpeg,Ink Mood Matte Tint 08 Smoky Coral,PERIPERA,RM39.20,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/119.jpeg,Juicy Lasting Tint 20 Dark Coconut,ROM&ND,RM62.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/120.jpeg,Dewy Ful Water Tint 06 Thulian,ROM&ND,RM59.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/121.jpeg,Glasting Water Tint 04 Vintage Ocean,ROM&ND,RM62.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/122.jpeg,Blur Fudge Tint 10 Fudge Red,ROM&ND,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/123.jpeg,Juicy Lasting Tint 21 Deep Sangria,ROM&ND,RM62.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/124.jpeg,Blur Fudge Tint 07 Cool Rose Up,ROM&ND,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/125.jpeg,Juicy Lasting Tint 24 Peeling Angdoo,ROM&ND,RM62.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/126.jpeg,Juicy Lasting Tint 13 Eat Dotori,ROM&ND,RM62.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/127.jpeg,Dewy Ful Water Tint 01 In Coral,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/128.jpeg,Blur Fudge Tint 09 Coral Jubilee,ROM&ND,RM59.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/129.jpeg,Glasting Water Tint 08 Rose Stream,ROM&ND,RM62.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/130.jpeg,Dewy Ful Water Tint 07 Cherry Way,ROM&ND,RM59.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/131.jpeg,Milk Tea Velvet Tint 07 Rose Tea,ROM&ND,RM49.60,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/132.jpeg,Zero Velvet Tint 17 Toasty Nude,ROM&ND,RM49.60,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/133.jpeg,Zero Matte Lipstick 02 All That Jazz,ROM&ND,RM55.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/134.jpeg,Juicy Lasting Tint 22 Pomelo Skin,ROM&ND,RM62.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/135.jpeg,Zero Velvet Tint 04 Burnt Heart,ROM&ND,RM49.60,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/136.jpeg,Blur Fudge Tint 05 Bibi Candy,ROM&ND,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/137.jpeg,Zero Matte Lipstick 09 Shell Nude,ROM&ND,RM55.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/138.jpeg,Zero Velvet Tint 02 Joyful,ROM&ND,RM49.60,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/139.jpeg,Glasting Water Gloss 01 Sanho Crush,ROM&ND,RM52.70,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/140.jpeg,Glasting Water Tint 05 Rose Splash,ROM&ND,RM62.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/141.jpeg,Juicy Lasting Tint 11 Pink Pumpkin,ROM&ND,RM62.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/142.jpeg,Dewy Ful Water Tint 08 Berry Divine,ROM&ND,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/143.jpeg,Blur Fudge Tint 03 Musky,ROM&ND,RM59.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/144.jpeg,Zero Velvet Tint 03 Persired,ROM&ND,RM49.60,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/145.jpeg,Zero Velvet Tint 08 Icy,ROM&ND,RM49.60,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/146.jpeg,Zero Velvet Tint 22 Grain Nude,ROM&ND,RM49.60,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/147.jpeg,Milk Tea Velvet Tint 08 Earl Grey Tea,ROM&ND,RM49.60,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/148.jpeg,Juicy Lasting Tint 18 Mulled Peach,ROM&ND,RM62.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/149.jpeg,Juicy Lasting Tint 19 Almond Rose,ROM&ND,RM62.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/150.jpeg,Zero Velvet Tint 19 Earl Grey Shawl,ROM&ND,RM49.60,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/151.jpeg,Blur Fudge Tint 08 Current Jam,ROM&ND,RM59.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/152.jpeg,Zero Matte Lipstick 07 Envy Me,ROM&ND,RM55.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/153.jpeg,Blur Fudge Tint 01 Pomeloco,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/154.jpeg,Juicy Lasting Tint 06 Figfig,ROM&ND,RM62.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/155.jpeg,Zero Velvet Tint 16 Burny Nude,ROM&ND,RM62.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/156.jpeg,Juicy Lasting Tint 07 Jujube,ROM&ND,RM62.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/157.jpeg,Milk Tea Velvet Tint 06 Jasmine Tea,ROM&ND,RM49.60,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/158.jpeg,Milk Tea Velvet Tint 09 Black Tea,ROM&ND,RM49.60,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/159.jpeg,Blur Fudge Tint 04 Radwood,ROM&ND,RM59.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/160.jpeg,Dewy Ful Water Tint 05 Taffy,ROM&ND,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/161.jpeg,Blur Fudge Tint 02 Rosiental,ROM&ND,RM59.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/162.jpeg,Dewy Ful Water Tint 02 Salty Peach,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/163.jpeg,Zero Velvet Tint 06 Deepsoul,ROM&ND,RM49.60,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/164.jpeg,Glasting Water Tint 03 Brick River,ROM&ND,RM62.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/165.jpeg,ColorStay Matte Lite Crayon 011 Lifted,REVLON,RM49.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/166.jpeg,Zero Velvet Tint 21 Villain Vest,ROM&ND,RM49.60,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/167.jpeg,Blur Fudge Tint 11 Fuchsia Vibe,ROM&ND,RM59.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/168.jpeg,Milk Tea Velvet Tint 05 Vanilla Tea,ROM&ND,RM49.60,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/169.jpeg,Blur Fudge Tint 06 Mauvish,ROM&ND,RM59.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/170.jpeg,Zero Matte Lipstick 08 Adorable,ROM&ND,RM55.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/171.jpeg,Zero Matte Lipstick 01 Dusty Pink,ROM&ND,RM55.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/172.jpeg,Dewy Ful Water Tint 04 Chili Up,ROM&ND,RM59.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/173.jpeg,Lip Monster 14,KATE,RM61.83,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/174.jpeg,Lip Monster 12,KATE,RM61.83,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/175.jpeg,CS Satin Ink Crown Jewels 035 Reigning Red,REVLON,RM49.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/176.jpeg,Ink Mood Glowy Tint 05 Cherry So What,PERIPERA,RM49.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/177.jpeg,Ink Velvet 26 Well-Made Nude,PERIPERA,RM44.10,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/178.jpeg,Ink Velvet 27 Strawberry Nude,PERIPERA,RM44.10,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/179.jpeg,Ink Airy Velvet 007 Heart Grapefruit,PERIPERA,RM49.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/180.jpeg,Ink Velvet 22 Bouquet Nude,PERIPERA,RM44.10,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/181.jpeg,Ink Airy Velvet 015 Soft Coral,PERIPERA,RM49.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/182.jpeg,Ink Mood Matte Tint 03 Oatmeal Rose,PERIPERA,RM39.20,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/183.jpeg,Sensational Cushion Matte CM08 Girl Who Rules,MAYBELLINE,RM23.94,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/184.jpeg,Ink Mood Matte Tint 01 Peach Puree,PERIPERA,RM39.20,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/185.jpeg,Ultra HD Matte Lipstick Pretty Smart RC1 3.5g,C.CODE,RM23.71,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/186.jpeg,Colorfit LAD Lip Paint 07 Brick On 4.2g,WARDAH,RM22.32,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/187.jpeg,Colorfit LAD Lip Paint 11 Everlast Pink 4.2g,WARDAH,RM13.95,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/188.jpeg,KATE LIP MONSTER 07 Final Boss,KATE,RM61.83,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/189.jpeg,KATE LIP MONSTER 01 Clump of Desire,KATE,RM61.83,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/190.jpeg,Colorland Juicy Pop Lipstick Lively Citrus,Y.O.U,RM26.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/191.jpeg,Colorland Juicy Pop Lipstick Fierce Raspberry,Y.O.U,RM26.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/192.jpeg,Colorland Juicy Pop Lipstick Festive Peach,Y.O.U,RM26.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/193.jpeg,Velvet Love Lip Color C03 Citie,BT'S,RM13.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/194.jpeg,Velvet Love Lip Color B03 Bahira,BT'S,RM13.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/195.jpeg,"CS Satin Ink Lipstick - 008 Mauvey, Darling",REVLON,RM49.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/196.jpeg,Matte Lipstick Colour 3.5G - Living Coral,ALIA,RM21.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/197.jpeg,Matte Lipstick Colour 3.5G - Red Wood,ALIA,RM21.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/198.jpeg,Lasting Lip Color N 505,CEZANNE,RM31.92,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/199.jpeg,Blooming Matte Lipstick Daffodil BML05,IN2IT,RM12.45,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/200.jpeg,Blooming Matte Lipstick Morning Glory BML02,IN2IT,RM12.45,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/201.jpeg,Blooming Moist Lipstick Primrose BMI06,IN2IT,RM12.45,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/202.jpeg,Blooming Matte Lipstick Mimosa BML01,IN2IT,RM12.45,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/203.jpeg,Blooming Matte Lipstick Columbine BML04,IN2IT,RM12.45,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/204.jpeg,Rouge Signature Wild Nudes #147believe,L'OREAL PARIS MAKEUP,RM41.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/205.jpeg,Rouge Signature Wild Nudes #144conquer,L'OREAL PARIS MAKEUP,RM41.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/206.jpeg,Rouge Signature Wild Nudes #143 Liberate,L'OREAL PARIS MAKEUP,RM41.93,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/207.jpeg,Blooming Lipstick 06 Lenny 1S,SON&PARK,RM65.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/208.jpeg,Blooming Lipstick 04 Keira 1S,SON&PARK,RM65.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/209.jpeg,Blooming Lipstick 03 Sahara 1S,SON&PARK,RM65.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/210.jpeg,Blooming Lipstick 05 Sophi 1S,SON&PARK,RM65.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/211.jpeg,Blooming Lipstick 01 Nina 1S,SON&PARK,RM65.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/212.jpeg,Blooming Lipstick 02 Wanted 1S,SON&PARK,RM65.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/213.jpeg,Rose Bluring Special Edition 3S,SON&PARK,RM130.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/214.jpeg,Realway Velvet Lipstick #1 Urban Rose,LUNA,RM69.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/215.jpeg,Professional Liquid Matte Lipstick Gorgeous PVM10,IN2IT,RM22.41,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/216.jpeg,Professional Liquid Matte Lipstick Sincere PVM07,IN2IT,RM22.41,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/217.jpeg,Professional Liquid Matte Lipstick Adorable PVM05,IN2IT,RM22.41,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/218.jpeg,Professional Liquid Matte Lipstick PassionatePVM08,IN2IT,RM22.41,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/219.jpeg,Professional Liquid Matte Lipstick Selfless PVM06,IN2IT,RM22.41,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/220.jpeg,Professional Liquid Matte Lipstick Liberal PVM03,IN2IT,RM22.41,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/221.jpeg,Professional Liquid Matte Lipstick Fearless PVM02,IN2IT,RM22.41,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/222.jpeg,Professional Liquid Matte Lipstick InsightfulPVM04,IN2IT,RM22.41,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/223.jpeg,Professional Liquid Matte Lipstick MesmerizinPVM09,IN2IT,RM22.41,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/224.jpeg,Matte Styler Slim Lipcolor Heat,SILKYGIRL,RM31.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/225.jpeg,Matte Styler Slim Lipcolor Chic,SILKYGIRL,RM31.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/226.jpeg,Matte Styler Slim Lipcolor 04 Preepy,SILKYGIRL,RM31.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/227.jpeg,SATIN MATTE LIP COLOR C02 CHA CHA,BT'S,RM13.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/228.jpeg,SATIN MATTE LIP COLOR R01 RUBY,BT'S,RM13.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/229.jpeg,SATIN MATTE LIP COLOR C01 CAMILIA,BT'S,RM13.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/230.jpeg,SATIN MATTE LIP COLOR M01 MIA,BT'S,RM13.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/231.jpeg,Legally Blonde Matte Lip,IRISA COSMETICS,RM49.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/232.jpeg,Clueless Matte Lip,IRISA COSMETICS,RM49.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/233.jpeg,Hairspray Matte Lip,IRISA COSMETICS,RM49.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/234.jpeg,Bring It On Matte Lip,IRISA COSMETICS,RM49.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/235.jpeg,Mean Girls Matte Lip,IRISA COSMETICS,RM49.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/236.jpeg,Mattesetter Lip Matte Paint 04. VIBE 5.5 g,WARDAH,RM38.60,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/237.jpeg,Mattesetter Lip Matte Paint 02. DEAR 5.5 g,WARDAH,RM38.60,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/238.jpeg,Mattesetter Lip Matte Paint 05. HYPE 5.5 g,WARDAH,RM38.60,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/239.jpeg,Instaperfect Mattesetter Lip Matte Paint 9 1's,WARDAH,RM38.60,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/240.jpeg,Instaperfect Mattesetter Lip Matte Paint 7 1's,WARDAH,RM38.60,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/241.jpeg,SG GEN MATTE LIP CRM 09 G.ROSE,SILKYGIRL,RM26.91,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/242.jpeg,Wardah Exclusive Lip Cream 14 HB,WARDAH,RM26.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/243.jpeg,SILKYGIRL Gen Matte Lip Cream 02 Mauve Mallow,SILKYGIRL,RM26.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/244.jpeg,SILKYGIRL Gen Matte Lip Cream 04 Crimson Love,SILKYGIRL,RM26.91,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/245.jpeg,SILKYGIRL Gen Matte Lip Cream 03 Retro Pink,SILKYGIRL,RM26.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/246.jpeg,Ink Airy Velvet 003 Cartoon Coral,PERIPERA,RM49.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/247.jpeg,Lasting Gloss Lip PK2,CEZANNE,RM29.93,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/248.jpeg,Super Lustrous Matte 011 Untold Story,REVLON,RM25.13,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/249.jpeg,Ink Airy Velvet 008 Pretty Orange Pink,PERIPERA,RM49.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/250.jpeg,MegaLast Lipstick Matte Cherry Bomb,WET N WILD,RM26.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/251.jpeg,MegaLast Lipstick Matte Cinnamon Spice,WET N WILD,RM26.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/252.jpeg,MegaLast Lipstick Matte StopLight Red,WET N WILD,RM26.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/253.jpeg,MegaLast Lipstick Matte Skin-ny Dipping,WET N WILD,RM26.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/254.jpeg,Watery Tint Lip Matte M1,CEZANNE,RM29.94,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/255.jpeg,ColorStay Matte Lite Crayon 012 On Cloud Wine,REVLON,RM49.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/256.jpeg,Super Lustrous™ Lipstick 415 Pink In The Afternoon,REVLON,RM25.13,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/257.jpeg,MLBB Lip Tint 09 Dahlia,SILKYGIRL,RM18.32,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/258.jpeg,Simplicity Cotton Lip Clay R966 Sugar Rush,Y.O.U,RM24.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/259.jpeg,Simplicity Cotton Lip Clay R956 PumpkinSpice,Y.O.U,RM24.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/260.jpeg,Simplicity Cotton Lip Clay R858 Honey Coral,Y.O.U,RM24.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/261.jpeg,Simplicity Matte Lip O079 I Love It 3.2g,Y.O.U,RM19.92,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/262.jpeg,Simplicity Matte Lip R779 High Five 3.2g,Y.O.U,RM19.92,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/263.jpeg,Simplicity Matte Lip R879 Nice One 3.2g,Y.O.U,RM19.92,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/264.jpeg,Simplicity Matte Lip R678 Sensational 3.2g,Y.O.U,RM19.92,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/265.jpeg,Dewy Ful Water Tint 03 If Rose,ROM&ND,RM59.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/266.jpeg,Dewy Ful Water Tint 06 Thulian,ROM&ND,RM59.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/267.jpeg,Dewy Ful Water Tint 01 In Coral,ROM&ND,RM59.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/268.jpeg,Dewy Ful Water Tint 07 Cherry Way,ROM&ND,RM59.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/269.jpeg,Glasting Water Gloss 01 Sanho Crush,ROM&ND,RM52.70,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/270.jpeg,Dewy Ful Water Tint 08 Berry Divine,ROM&ND,RM59.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/271.jpeg,Dewy Ful Water Tint 05 Taffy,ROM&ND,RM59.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/272.jpeg,Dewy Ful Water Tint 02 Salty Peach,ROM&ND,RM59.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/273.jpeg,Dewy Ful Water Tint 04 Chili Up,ROM&ND,RM59.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/274.jpeg,Lip Cushion 02. Be Cherry 9 g,EMINA,RM13.50,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/275.jpeg,Squeeze Me Up Lip Glass 01 Surf n Slide 6.5 g,EMINA,RM24.50,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/276.jpeg,Exclusive Matte Lip Cream 07 Hello Ruby 1's,WARDAH,RM26.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/277.jpeg,Creamatte 02 Fuzzy Wuzzy 5.5 gr (Pc(s)),EMINA,RM11.82,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/278.jpeg,Poppin Matte 05 Easy Peasy,EMINA,RM22.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/279.jpeg,Magic Potion 01 Scarlet 5.5 ml,EMINA,RM13.79,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/280.jpeg,Glossy Stain 01 Autumn Bell 3 g,EMINA,RM22.50,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/281.jpeg,Creamytint 05 Cherry Soda 3.6 g,EMINA,RM18.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/282.jpeg,Squeeze Me Up Lip Matte 02 Bake a Cookie 6.5 g,EMINA,RM19.60,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/283.jpeg,Poppin Matte 04 Snatched,EMINA,RM15.75,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/284.jpeg,Poppin Matte 02 To Be Honest,EMINA,RM15.75,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/285.jpeg,Magic Potion 02 Sunglow 5.5 ml,EMINA,RM13.79,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/286.jpeg,Magic Potion 04 Sienna 5.5 ml,EMINA,RM19.70,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/287.jpeg,Poppin Matte 03 Game On,EMINA,RM15.75,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/288.jpeg,Squeeze Me Up Lip Matte 03 City Cycling 6.5 g,EMINA,RM19.60,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/289.jpeg,Creamatte 03 Mauvelous 5.5 gr (Pc(s)),EMINA,RM11.82,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/290.jpeg,Creamatte 06 Jelly Bean 5.5 gr (Pc(s)),EMINA,RM11.82,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/291.jpeg,Magic Potion 05 Summer 5.5 ml,EMINA,RM19.70,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/292.jpeg,Lip Cushion 03. Get Berry 9 g,EMINA,RM13.50,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/293.jpeg,Glossy Stain 03 Candy Rain 3 g,EMINA,RM22.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/294.jpeg,Creamytint 03 Sunbeam 3.6 g,EMINA,RM18.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/295.jpeg,Creamatte 12 Perky Plum 5.5 gr,EMINA,RM11.82,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/296.jpeg,Creamytint 04 Wild Berry 3.6 g,EMINA,RM18.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/297.jpeg,Lip Cushion 04. Say Coral 9 g,EMINA,RM13.50,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/298.jpeg,Creamatte 09 Baby Fox 5.5 gr,EMINA,RM11.82,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/299.jpeg,Creamatte 10 Starfish 5.5 gr,EMINA,RM11.82,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/300.jpeg,Creamatte 05 Flamingo 5.5 gr,EMINA,RM11.82,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/301.jpeg,Squeeze Me Up Lip Matte 04 Lil Dancing 6.5 g,EMINA,RM19.60,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/302.jpeg,Squeeze Me Up Lip Glass 02 Stargaze 6.5 g,EMINA,RM24.50,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/303.jpeg,Scented Roll On Lip Gloss - Strawberry 5.9ml,BLOSSOM,RM36.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/304.jpeg,Colorstay Micro Liquid Liner 302 What The Fudge,REVLON,RM30.73,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/305.jpeg,Colorstay Micro Liquid Liner 303 But First Wine,REVLON,RM30.73,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/306.jpeg,Glasting Melting Balm 04 Hippie Berry,ROM&ND,RM59.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/307.jpeg,[2 Boxes] Tea Flower Mushroom 150gm,SOON THYE HANG,RM70.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/308.jpeg,Extreme Shine Volume Lipgloss 09 Shadow Rose,ESSENCE,RM18.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/309.jpeg,Simplicity Icy Glow Lip Serum 03 Ice Blue,Y.O.U,RM17.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/310.jpeg,Colorfit Velvet Matte Lip Mousse 14 Dainty Caramel,WARDAH,RM25.42,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/311.jpeg,Colorfit Velvet Lip Mousse 08 Brown Creator,WARDAH,RM25.42,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/312.jpeg,Maybelline Super Stay Matte Ink - Seductress Nude,MAYBELLINE,RM27.89,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/313.jpeg,Colorfit LAD Lip Paint 04 Brownderlast 4.2g,WARDAH,RM22.32,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/314.jpeg,Colorfit Velevt Matte Lip Mousse 13 Sweet Cinnamon,WARDAH,RM25.42,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/315.jpeg,Super Smooth Round Thread Dental Floss  50SX3boxes,WATSONS,RM5.94,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/316.jpeg,Super Stay Vinyl Ink 15 Peachy,MAYBELLINE,RM34.39,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/317.jpeg,Ultimatte Lipstick 799 More Taupe,MAYBELLINE,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/318.jpeg,Maybelline Super Stay Matte Ink - Pioneer,MAYBELLINE,RM27.89,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/319.jpeg,Ultimatte Lipstick 599 More Mauve,MAYBELLINE,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/320.jpeg,Colorfit Velvet Matte Lip Mousse 09 Ombre Charmer,WARDAH,RM25.42,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/321.jpeg,Colorfit Velvet Matte Lip Mousse 11 Cherish Marmal,WARDAH,RM25.42,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/322.jpeg,Super Stay Matte Ink City Collection 210,MAYBELLINE,RM27.89,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/323.jpeg,Maybelline Super Stay Matte Ink - Fighter Nude,MAYBELLINE,RM27.89,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/324.jpeg,Maybelline Super Stay Matte Ink - Amazonian Nude,MAYBELLINE,RM27.89,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/325.jpeg,Super Stay Vinyl Ink Nude Shock 120 Punchy,MAYBELLINE,RM34.39,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/326.jpeg,Ultimatte Lipstick 499 More Blush,MAYBELLINE,RM39.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/327.jpeg,Super Stay Matte Ink City Collection 135,MAYBELLINE,RM27.89,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/328.jpeg,Super Stay Matte Ink City Collection 115,MAYBELLINE,RM27.89,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/329.jpeg,Colorfit Velvet Matte Lip Mousse 15 Tranquil Hazel,WARDAH,RM25.42,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/330.jpeg,Super Stay Vinyl Ink Nude Shock 62 Irresistible,MAYBELLINE,RM34.39,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/331.jpeg,Super Stay Vinyl Ink 60 Mischievous,MAYBELLINE,RM34.39,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/332.jpeg,Super Stay Vinyl Ink 35 Cheeky,MAYBELLINE,RM34.39,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/333.jpeg,Instaperfect Evl Ints Matte Liq 02 Tmls 4.2 g,WARDAH,RM30.03,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/334.jpeg,Super Stay Vinyl Ink 155 Upbeat,MAYBELLINE,RM34.39,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/335.jpeg,Stay On Balm Rouge 16,CANMAKE,RM42.41,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/336.jpeg,Colorfit Velvet Matte Lip Mousse 12 ChicTerracotta,WARDAH,RM25.42,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/337.jpeg,Colorfit Velvet Matte Lip Mousse 10 Lively Coral,WARDAH,RM25.42,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/338.jpeg,Little Lady Facial Cleansing Mousse 100ml,BZU BZU,RM35.91,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/339.jpeg,Winnie The Pooh Lip Matte 01 Pooh,DISNEY,RM35.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/340.jpeg,Super Stay Vinyl Ink Nude Shock 100 Charmed,MAYBELLINE,RM34.39,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/341.jpeg,SILKYGIRL Gen Matte Lip Cream 01 Just Nude,SILKYGIRL,RM26.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/342.jpeg,MLBB Lip Tint 03 Orchid 1's,SILKYGIRL,RM18.32,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/343.jpeg,Super Stay Vinyl Ink Nude Shock 130 Extra,MAYBELLINE,RM34.39,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/344.jpeg,Super Stay Vinyl Ink 10 Lippy,MAYBELLINE,RM34.39,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/345.jpeg,Super Stay Matte Ink Mood Maker Collection 430,MAYBELLINE,RM21.45,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/346.jpeg,HD Matte Lip Devotion 1's,REVLON,RM42.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/347.jpeg,72H Rehydrating Serum-In-Gel 45g,DR. DERMIS,RM64.94,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/348.jpeg,Colorfit Last All Day Lip Paint 22 Panoramic Istanbul,WARDAH,RM22.32,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/349.jpeg,Colorfit LAD Lip Paint 02 Eternal Sunset 4.2g,WARDAH,RM22.32,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/350.jpeg,Rouge Signature Ext 129,L'OREAL PARIS MAKEUP,RM41.93,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/351.jpeg,Super Stay Matte Ink City Collection 220,MAYBELLINE,RM27.89,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/352.jpeg,Milk Yogurt Body Lotion Strawberry 530ML,WATSONS,RM18.62,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/353.jpeg,Super Stay Vinyl Ink 145 Rouge,MAYBELLINE,RM34.39,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/354.jpeg,Colorfit Last All Day Lip Paint 21 Venice Muse,WARDAH,RM22.32,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/355.jpeg,SG GEN MATTE LIP CRM 07 R.LATE,SILKYGIRL,RM26.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/356.jpeg,Super Stay Matte Ink City Collection 205,MAYBELLINE,RM27.89,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/357.jpeg,Colorfit Velvet Matte Lip Mousse 16 Rouge Passion,WARDAH,RM25.42,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/358.jpeg,Moisture Bomb Lipstick Cherry MBL04,IN2IT,RM31.41,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/359.jpeg,Super Stay Vinyl Ink Nude Shock 63 Intriguing,MAYBELLINE,RM34.39,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/360.jpeg,Moisture Rich Lipcolor 01 Naked,SILKYGIRL,RM18.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/361.jpeg,Super Stay Matte Ink City Collection 225,MAYBELLINE,RM27.89,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/362.jpeg,Lasting Lip Color N 102,CEZANNE,RM31.92,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/363.jpeg,Bio-Cleanse Cica Acne Clear Gel Cleanser 160ml,BIO-ESSENCE,RM18.13,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/364.jpeg,Colorfit Velvet Matte Lip Mousse 20 Rosy Bloom,WARDAH,RM25.42,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/365.jpeg,Super Stay Matte Ink Mood Maker Collection 460,MAYBELLINE,RM21.45,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/366.jpeg,Moisture Bomb Lipstick Mulberry MBL01,IN2IT,RM31.41,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/367.jpeg,DUO Lipstick Venus & Mars DOL01,IN2IT,RM33.21,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/368.jpeg,Moisture Rich Lipcolor 07 Bare,SILKYGIRL,RM18.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/369.jpeg,Moisture Rich Lipcolor 06 Gorgeous,SILKYGIRL,RM18.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/370.jpeg,SG GEN MATTE LIP CRM 10 C.KISS,SILKYGIRL,RM26.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/371.jpeg,Matte Lip Cream 21 Creampuccino,WARDAH,RM26.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/372.jpeg,Colorfit Velvet Matte Lip Mousse 17 Beyond Sunset,WARDAH,RM25.42,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/373.jpeg,Colorfit Last All Day Lip Paint 19 Authentic Granada,WARDAH,RM22.32,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/374.jpeg,Ultimatte Lipstick 888 More Caramel,MAYBELLINE,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/375.jpeg,Super Stay Vinyl Ink Nude Shock 125 Keen,MAYBELLINE,RM34.39,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/376.jpeg,Super Stay Vinyl Ink 65 Saucy,MAYBELLINE,RM34.39,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/377.jpeg,Moisture Rich Lipcolor 08 Flush,SILKYGIRL,RM18.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/378.jpeg,Moisture Rich Lipcolor 03 Dazzle,SILKYGIRL,RM18.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/379.jpeg,Blooming Moist Lipstick Buttercup BMI05,IN2IT,RM12.45,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/380.jpeg,Super Stay Matte Ink Pink Edition Savant,MAYBELLINE,RM30.03,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/381.jpeg,Lasting Gloss Lip 101,CEZANNE,RM29.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/382.jpeg,Maybelline Super Stay Matte Ink - Lover,MAYBELLINE,RM27.89,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/383.jpeg,Maybelline Super Stay Matte Ink - Ruler Nude,MAYBELLINE,RM27.89,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/384.jpeg,Super Lustrous™ Lipstick 130 Rose Velvet 1pc,REVLON,RM25.13,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/385.jpeg,Super Stay Vinyl Ink 160 Sultry,MAYBELLINE,RM34.39,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/386.jpeg,Colorfit Velvet Matte Lip Mousse 19 Peony Bliss,WARDAH,RM25.42,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/387.jpeg,Colorfit Last All Day Lip Paint 18 Majestic Marrakesh,WARDAH,RM22.32,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/388.jpeg,Lip Monster 104,KATE,RM61.83,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/389.jpeg,Super Stay Matte Ink Mood Maker Collection 455,MAYBELLINE,RM21.45,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/390.jpeg,Ultimatte Lipstick 1299 More Spice,MAYBELLINE,RM39.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/391.jpeg,Moisture Rich Lipcolor 04 Taupe,SILKYGIRL,RM18.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/392.jpeg,Colorland Juicy Pop Lipstick Sweet Coconut,Y.O.U,RM26.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/393.jpeg,IN2IT LIP SPF 20 LT01 VA 4.5G,IN2IT,RM8.55,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/394.jpeg,MLBB Lip Tint 01 Autumn 1's,SILKYGIRL,RM18.32,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/395.jpeg,X-treme Sharp Brush Liner 01 Extreme Black,SILKYGIRL,RM27.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/396.jpeg,Super Lustrous Matte 004 Wild Thought,REVLON,RM25.13,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/397.jpeg,Lip Monster 107,KATE,RM61.83,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/398.jpeg,Colorfit Velvet Matte Lip Mousse 22 Poise Plum,WARDAH,RM25.42,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/399.jpeg,Colorfit Velvet Matte Lip Mousse 21 Magnetic Red,WARDAH,RM25.42,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/400.jpeg,Colorfit Velvet Matte Lip Mousse 18 Serene Sienna,WARDAH,RM25.42,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/401.jpeg,Juicy Lip Tint 02,CANMAKE,RM55.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/402.jpeg,Fluffy Lip Matte P07 Pesona,BT'S,RM13.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/403.jpeg,Super Stay Matte Ink Mood Maker Collection 450,MAYBELLINE,RM21.45,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/404.jpeg,Misty Matte Lip Cream 06 Desert Sunset 2.2g,DAZZLE ME,RM14.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/405.jpeg,Ultimatte Lipstick 1288 More Brick,MAYBELLINE,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/406.jpeg,Ultimatte Lipstick 988 More Blaze,MAYBELLINE,RM39.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/407.jpeg,Mousse Lip Cream R757 Joyful 4.5g,DAZZLE ME,RM17.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/408.jpeg,Super Stay Vinyl Ink Nude Shock 115 Peppy,MAYBELLINE,RM34.39,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/409.jpeg,Ink Velvet 24 Milky Nude,PERIPERA,RM44.10,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/410.jpeg,Moisture Rich Lipcolor 10 Mystic,SILKYGIRL,RM18.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/411.jpeg,KATE LIP MONSTER 02 Pink Banana,KATE,RM61.83,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/412.jpeg,Super Stay Matte Ink Pink Edition Initiattor,MAYBELLINE,RM30.03,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/413.jpeg,Mattesetter Lip Matte Paint 03. CHIC 5.5 g,WARDAH,RM38.60,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/414.jpeg,Wardah Exclusive Matte Lip Cream 17 RC,WARDAH,RM26.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/415.jpeg,OMG! Power Matte Lip Color 01 Blossom 1's,SILKYGIRL,RM26.01,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/416.jpeg,Radiant Shower Cream 750mll,WATSONS,RM10.50,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/417.jpeg,Super Lustrous Matte 008 Show Off,REVLON,RM25.13,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/418.jpeg,Super Stay Vinyl Ink 180 Tenacious,MAYBELLINE,RM34.39,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/419.jpeg,Super Stay Vinyl Ink 175 Tempting,MAYBELLINE,RM34.39,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/420.jpeg,Color Riche Slim Neiwai Lipstick 613 Iced Litchi,L'OREAL PARIS MAKEUP,RM38.10,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/421.jpeg,Caring Shine Vegan Collagen Lipstick 202,ESSENCE,RM23.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/422.jpeg,Super Stay Matte Ink Mood Maker Collection 435,MAYBELLINE,RM21.45,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/423.jpeg,Color Riche Slim Matte Intense Lipstick 339,L'OREAL PARIS MAKEUP,RM38.10,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/424.jpeg,Color Riche Slim Matte Intense Lipstick 275,L'OREAL PARIS MAKEUP,RM38.10,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/425.jpeg,Super Stay Vinyl Ink Nude Shock 61 Risky,MAYBELLINE,RM34.39,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/426.jpeg,Rouge Signature 124,L'OREAL PARIS MAKEUP,RM41.93,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/427.jpeg,Rouge Signature 105,L'OREAL PARIS MAKEUP,RM41.93,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/428.jpeg,Super Stay Vinyl Ink 20 Coy,MAYBELLINE,RM34.39,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/429.jpeg,Moisture Rich Lipcolor 02 Luscious,SILKYGIRL,RM18.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/430.jpeg,Ultimatte Lipstick 299 More Scarlet,MAYBELLINE,RM39.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/431.jpeg,KATE LIP MONSTER 04 Pumpkin Wine,KATE,RM61.83,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/432.jpeg,Rouge Signature Wild Nudes #149enchant,L'OREAL PARIS MAKEUP,RM41.93,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/433.jpeg,Matte Styler Slim Lipcolor Boho,SILKYGIRL,RM31.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/434.jpeg,Super Stay Matte Ink Pink Edition Ringleader,MAYBELLINE,RM30.03,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/435.jpeg,Instaperfect Mattesetter Lip Matte Paint 6 1's,WARDAH,RM38.60,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/436.jpeg,Wardah Exclusive Matte Lip Cream 13FP,WARDAH,RM26.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/437.jpeg,Super Stay Matte Ink City Collection 125,MAYBELLINE,RM27.89,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/438.jpeg,Super Stay Matte Ink City Collection 130,MAYBELLINE,RM27.89,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/439.jpeg,Super Lustrous Matte 016 Candy Addict,REVLON,RM25.13,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/440.jpeg,Ink Mood Glowy Tint 03 Rose In Mind,PERIPERA,RM49.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/441.jpeg,Objet Water 001 Signature,MUZIGAE MANSION,RM72.25,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/442.jpeg,Fluffy Lip Matte C08 Ceria,BT'S,RM13.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/443.jpeg,Superstay Matte Ink Music 15 Lover,MAYBELLINE,RM34.32,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/444.jpeg,Moisture Bomb Lipstick Raspberry MBL05,IN2IT,RM31.41,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/445.jpeg,Ultimatte Lipstick 488 More Stone,MAYBELLINE,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/446.jpeg,Whoops! Matte Lip Cream C06 Come On,BT'S,RM13.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/447.jpeg,Rouge Signature 116,L'OREAL PARIS MAKEUP,RM41.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/448.jpeg,Rouge Signature 121,L'OREAL PARIS MAKEUP,RM41.93,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/449.jpeg,Super Stay Vinyl Ink 40 Witty,MAYBELLINE,RM34.39,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/450.jpeg,Super Stay Vinyl Ink 30 Unrivaled,MAYBELLINE,RM34.39,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/451.jpeg,Sensational Cushion Matte CM06 Urban Spice,MAYBELLINE,RM23.94,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/452.jpeg,Sensational Cushion Matte CM10 The Cool Rebel,MAYBELLINE,RM23.94,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/453.jpeg,Sensational Cushion Matte CM14 Sunset Affair,MAYBELLINE,RM23.94,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/454.jpeg,Ultimatte Lipstick 899 More Rust,MAYBELLINE,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/455.jpeg,Ultimatte Lipstick 699 More Buff,MAYBELLINE,RM39.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/456.jpeg,Ultimatte Lipstick 1199 More Almond,MAYBELLINE,RM39.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/457.jpeg,Colorfit LAD Lip Paint 01 Peach Till Drop 4.2g,WARDAH,RM13.95,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/458.jpeg,Rouge Signature Wild Nudes #145convince,L'OREAL PARIS MAKEUP,RM41.93,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/459.jpeg,Rouge Signature Ext 128,L'OREAL PARIS MAKEUP,RM41.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/460.jpeg,MLBB Lip Tint 02 Rosie 1's,SILKYGIRL,RM18.32,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/461.jpeg,Super Lustrous Matte 017 Crush Rubies,REVLON,RM25.13,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/462.jpeg,Bio-Cleanse Pure Vit C Cloud Foam Cleanser 100g,BIO-ESSENCE,RM16.03,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/463.jpeg,Watery Glow Lipstick 06,JUDYDOLL,RM49.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/464.jpeg,Lip Mud P03,JUDYDOLL,RM39.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/465.jpeg,Lip Mud P02,JUDYDOLL,RM39.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/466.jpeg,OMBRELLA Lip Totem Tint - Mute 1S,SOMEThinC,RM22.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/467.jpeg,Stay On Balm Rouge 03,CANMAKE,RM42.41,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/468.jpeg,Idol Blurry Soft Lip Matte - Playdate 1S,SOMEThinC,RM28.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/469.jpeg,Idol Blurry Soft Lip Matte - Loyalty 1S,SOMEThinC,RM28.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/470.jpeg,Idol Blurry Soft Lip Matte - Blow 1S,SOMEThinC,RM28.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/471.jpeg,Fluffy Lip Matte B06 Bijak,BT'S,RM13.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/472.jpeg,Paint It Blushed PI02,IN2IT,RM31.41,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/473.jpeg,Color Riche Slim Neiwai Lipstick 610 Light Oolong,L'OREAL PARIS MAKEUP,RM38.10,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/474.jpeg,Superstay Vinyl Ink Music 65 Saucy,MAYBELLINE,RM42.32,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/475.jpeg,Superstay Matte Ink Music 495 Spicy,MAYBELLINE,RM34.32,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/476.jpeg,Lasting Finish Provocalips 730 Make A Mauve,RIMMEL,RM49.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/477.jpeg,Lasting Finish Provocalips 600 Orange You Coming,RIMMEL,RM49.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/478.jpeg,Lasting Finish Provocalips 210 Pink Case,RIMMEL,RM49.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/479.jpeg,Fresh Colour Matte Lipstick Sand Nude FCM02,SIMPLYSITI,RM32.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/480.jpeg,Color Riche Slim Matte Intense Lipstick 276,L'OREAL PARIS MAKEUP,RM38.10,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/481.jpeg,Ultimatte Lipstick 288 More Auburn,MAYBELLINE,RM39.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/482.jpeg,Velvet Love Lip Color R02 Rina,BT'S,RM13.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/483.jpeg,Matte Everlasting Extreme L/Creme 107 Flesh 4ml,C.CODE,RM20.18,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/484.jpeg,Whoops! Matte Lip Cream P05 Power Up,BT'S,RM13.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/485.jpeg,CS Satin Ink Crown Jewels 036 Royal Amethyst,REVLON,RM49.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/486.jpeg,DUO Lipstick Moon & Sun DOL05,IN2IT,RM33.21,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/487.jpeg,DUO Lipstick Mercury & Uranus DOL02,IN2IT,RM33.21,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/488.jpeg,KATE LIP MONSTER 06 2:00AM,KATE,RM61.83,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/489.jpeg,Colorland Juicy Pop Lipstick Flirty Guava,Y.O.U,RM26.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/490.jpeg,Velvet Love Lip Color C04 Catrina,BT'S,RM13.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/491.jpeg,CS Satin Ink Lipstick - 010 Your Majesty,REVLON,RM49.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/492.jpeg,Matte Lipstick Colour 3.5G - Burnt Caramel,ALIA,RM21.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/493.jpeg,OMG! Power Matte Lip Color 02 Mocha 1's,SILKYGIRL,RM26.01,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/494.jpeg,Matte Styler Slim Lipcolor Goth,SILKYGIRL,RM31.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/495.jpeg,Super Lustrous Matte 025 Insane,REVLON,RM25.13,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/496.jpeg,SATIN MATTE LIP COLOR P02 PRINCESS,BT'S,RM13.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/497.jpeg,SATIN MATTE LIP COLOR B01 BELLA,BT'S,RM13.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/498.jpeg,Instaperfect Mattesetter Lip Matte Paint 8 1's,WARDAH,RM38.60,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/499.jpeg,Rouge Signature Ext 130,L'OREAL PARIS MAKEUP,RM41.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/500.jpeg,Super Lustrous Matte 026 Get Serious,REVLON,RM25.13,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/501.jpeg,Super Stay Matte Ink City Collection 117,MAYBELLINE,RM27.89,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/502.jpeg,OMG Powder Matte Lipcolor 10 Mauve 1's,SILKYGIRL,RM26.01,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/503.jpeg,Oil Control 2 Way Cake SPF30 N2 10g,C.CODE,RM13.14,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/504.jpeg,Super Lustrous Matte 014 Shameless,REVLON,RM25.13,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/505.jpeg,Beauty Gold Powder Wash 15s,SUISAI,RM49.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/506.jpeg,Winnie The Pooh Lip Matte 02 Tigger,DISNEY,RM35.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/507.jpeg,Matte Lip Cream 19 Have a Blush!,WARDAH,RM26.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/508.jpeg,Matte Lip Cream 20 Peach of Mind,WARDAH,RM26.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/509.jpeg,Watery Glow Lipstick 05,JUDYDOLL,RM49.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/510.jpeg,Watery Glow Lipstick 04,JUDYDOLL,RM49.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/511.jpeg,Lip Mud P21,JUDYDOLL,RM39.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/512.jpeg,Long Lasting Soft Matte Lip Cream 08,JUDYDOLL,RM39.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/513.jpeg,Colorfit Last All Day Lip Paint 23 Kyoto Adore,WARDAH,RM22.32,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/514.jpeg,Colorfit Last All Day Lip Paint 20 Mesmeric Paris,WARDAH,RM22.32,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/515.jpeg,Juicy Lip Tint 04,CANMAKE,RM55.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/516.jpeg,Objet Liquid 003 Stranger,MUZIGAE MANSION,RM72.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/517.jpeg,Powdery Matte Lipstick Passion LS006 1S,C.CODE,RM25.42,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/518.jpeg,Color Riche Slim Neiwai Lipstick 614 Sweet Papaya,L'OREAL PARIS MAKEUP,RM38.10,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/519.jpeg,Misty Matte Lip Cream 01 Misty 2.2g,DAZZLE ME,RM14.50,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/520.jpeg,Lasting Finish Provocalips 400 Grin & Bare It,RIMMEL,RM49.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/521.jpeg,Facefinity Smooth 2Way Foundation Light PFE101,IN2IT,RM43.11,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/522.jpeg,Color Riche Slim Matte Intense Lipstick 666,L'OREAL PARIS MAKEUP,RM38.10,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/523.jpeg,Color Riche Slim Matte Intense Lipstick 129,L'OREAL PARIS MAKEUP,RM38.10,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/524.jpeg,Lip Monster Souffle Matte M05,KATE,RM61.83,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/525.jpeg,Ink Mood Matte Tint #15 Acorn Brown,PERIPERA,RM39.20,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/526.jpeg,Matte Everlasting Extreme L/Creme 111 Taupe 4ml,C.CODE,RM20.18,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/527.jpeg,CS Satin Ink Crown Jewels 034 Regal Ruby,REVLON,RM49.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/528.jpeg,DUO Lipstick Saturn & Earth DOL04,IN2IT,RM33.21,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/529.jpeg,DUO Lipstick Neptune & Pluto DOL03,IN2IT,RM33.21,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/530.jpeg,Sensational Cushion Matte CM17 Chesnut On Point,MAYBELLINE,RM23.94,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/531.jpeg,Sensational Cushion Matte CM16 Mauve Couture,MAYBELLINE,RM23.94,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/532.jpeg,Ultra HD Matte Lipstick Fighter RN2 3.5g,C.CODE,RM23.71,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/533.jpeg,Moisture Rich Lipcolor 09 Adore,SILKYGIRL,RM18.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/534.jpeg,Moisture Rich Lipcolor 05 Divine,SILKYGIRL,RM18.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/535.jpeg,Colorfit LAD Lip Paint 12 Berry Lasting 4.2g,WARDAH,RM13.95,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/536.jpeg,Colorfit LAD Lip Paint 05 Stay Russet 4.2g,WARDAH,RM22.32,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/537.jpeg,Colorfit LAD Lip Paint 09 Timeless Rose 4.2g,WARDAH,RM22.32,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/538.jpeg,KATE LIP MONSTER 03 Heat Haze,KATE,RM61.83,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/539.jpeg,Colorland Juicy Pop Lipstick Cheerful Berries,Y.O.U,RM26.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/540.jpeg,Velvet Love Lip Color M03 Maya,BT'S,RM13.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/541.jpeg,Blooming Matte Lipstick Orchid BML03,IN2IT,RM12.45,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/542.jpeg,SATIN MATTE LIP COLOR P01 PEONY,BT'S,RM13.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/543.jpeg,SG GEN Matte Lip Cream 08 R.RBEL,SILKYGIRL,RM26.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/544.jpeg,Lasting Gloss Lip 501,CEZANNE,RM29.93,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/545.jpeg,OMG Powder Matte Lipcolor 08 Sakura 1's,SILKYGIRL,RM26.01,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/546.jpeg,SuperStay Powder Foundation 312 Golden 1's,MAYBELLINE,RM53.52,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/547.jpeg,Self-Up Hair Line Brush 01 Natural Brown 4g,JENNY HOUSE,RM59.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/548.jpeg,Watery Glow Lipstick 09,JUDYDOLL,RM49.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/549.jpeg,Stay On Balm Rouge Tint T05,CANMAKE,RM42.41,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/550.jpeg,Stay On Balm Rouge 20,CANMAKE,RM42.41,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/551.jpeg,Objet Liquid 016 After,MUZIGAE MANSION,RM72.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/552.jpeg,Objet Liquid 012 Symbol,MUZIGAE MANSION,RM72.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/553.jpeg,Objet Liquid 004 Affection,MUZIGAE MANSION,RM72.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/554.jpeg,Icy Glow 04 Wonder,MUZIGAE MANSION,RM72.25,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/555.jpeg,OMBRELLA Lip Totem Tint - Undercover 1S,SOMEThinC,RM22.50,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/556.jpeg,Idol Blurry Soft Lip Matte - Happier 1S,SOMEThinC,RM28.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/557.jpeg,Garden Walk Lipstick Matte 03,ZA,RM31.92,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/558.jpeg,Garden Walk Lipstick Matte 02,ZA,RM31.92,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/559.jpeg,Fluffy Lip Matte B05 Berani,BT'S,RM13.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/560.jpeg,Paint It Nude PI01,IN2IT,RM31.41,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/561.jpeg,Powdery Matte Lipstick Blush LS010 1S,C.CODE,RM25.42,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/562.jpeg,Superstay Vinyl Ink Music 15 Peachy,MAYBELLINE,RM42.32,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/563.jpeg,Superstay Vinyl Ink Music 80 Eccentric,MAYBELLINE,RM42.32,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/564.jpeg,Water Blur Tint 10 Sweet Mauve,DASIQUE,RM47.60,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/565.jpeg,Juicy Dewy Tint 03 Pink Guava,DASIQUE,RM54.40,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/566.jpeg,Juicy Dewy Tint 11 Fig Plum,DASIQUE,RM54.40,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/567.jpeg,Caring Shine Vegan Collagen Lipstick 203,ESSENCE,RM23.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/568.jpeg,Ink Mood Glowy Tint 012 Warm Gorithm Peritage,PERIPERA,RM49.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/569.jpeg,Ink Airy Velvet 027 Inside Peach,PERIPERA,RM49.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/570.jpeg,Misty Matte Lip Cream 05 Rose Manor 2.2g,DAZZLE ME,RM14.50,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/571.jpeg,Lasting Finish Provocalips 220 Come Up Rose,RIMMEL,RM49.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/572.jpeg,Argan Wonder Lipstick Sweet Coral AWL03,SIMPLYSITI,RM30.32,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/573.jpeg,Fresh Colour Lips & Cheek Colour Peach Perfect FLC01,SIMPLYSITI,RM21.54,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/574.jpeg,Fresh Colour Matte Lipstick Lustrous Orange FCM03,SIMPLYSITI,RM32.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/575.jpeg,Ultimatte Lipstick 1099 More Peach,MAYBELLINE,RM39.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/576.jpeg,Soft Matte Lip Cream KL,MIKASERIES,RM39.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/577.jpeg,Glossip Girl Lip Cream 02 Preppy Peach 2g,DAZZLE ME,RM14.50,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/578.jpeg,Mousse Lip Cream O066 Release Me 4.5g,DAZZLE ME,RM17.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/579.jpeg,Dewy Ful Water Tint 12 Canyon,ROM&ND,RM59.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/580.jpeg,Timeless Matte Lipstick Fortune Pink TLP01,SIMPLYSITI,RM28.72,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/581.jpeg,16H 2in1 Longlasting Lip Colour No. 23,DERMACOL,RM49.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/582.jpeg,Matte Everlasting Extreme L/Creme 112 Earth 4ml,C.CODE,RM20.18,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/583.jpeg,Whoops! Matte Lip Cream C05 Call Me,BT'S,RM13.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/584.jpeg,MegaLast Lipstick Matte Mochalicious,WET N WILD,RM26.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/585.jpeg,Glasting Water Gloss 00 Meteor Track,ROM&ND,RM52.70,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/586.jpeg,Juicy Lasting Tint 25 Bare Grape,ROM&ND,RM62.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/587.jpeg,Zero Matte Lipstick 10 Pink Sand,ROM&ND,RM55.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/588.jpeg,Juicy Lasting Tint 10 Nudy Peanut,ROM&ND,RM62.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/589.jpeg,Juicy Lasting Tint 23 Nucadamia,ROM&ND,RM62.00,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/590.jpeg,CS Satin Ink Crown Jewels 031 Pink Duchess,REVLON,RM49.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/591.jpeg,Ink Velvet 17 Rosy Nude,PERIPERA,RM44.10,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/592.jpeg,Ink Velvet 25 Cinnamon Nude,PERIPERA,RM44.10,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/593.jpeg,Ultra HD Matte Florescence PN1 3.8g,C.CODE,RM23.71,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/594.jpeg,Ink Velvet 15 Beauty Peak Rose,PERIPERA,RM44.10,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/595.jpeg,Sensational Cushion Matte CM15 Pink Addiction,MAYBELLINE,RM23.94,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/596.jpeg,Sensational Cushion Matte CM07 Lips On Pulse,MAYBELLINE,RM23.94,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/597.jpeg,Ink Mood Matte Tint 05 Ginger Red,PERIPERA,RM39.20,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/598.jpeg,Colorfit LAD Lip Paint 06 Infinite Coral 4.2g,WARDAH,RM13.95,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/599.jpeg,Colorfit LAD Lip Paint 08 Red Repeat 4.2g,WARDAH,RM13.95,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/600.jpeg,Colorfit LAD Lip Paint 03 Stick To Latte 4.2g,WARDAH,RM22.32,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/601.jpeg,Colorfit LAD Lip Paint 10 Forever Mauve 4.2g,WARDAH,RM13.95,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/602.jpeg,KATE LIP MONSTER 05 Dark Fig,KATE,RM61.83,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/603.jpeg,Velvet Love Lip Color B02 Bebe,BT'S,RM13.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/604.jpeg,Matte Lipstick Colour 3.5G - Brick Red,ALIA,RM21.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/605.jpeg,Lasting Gloss Lip 401,CEZANNE,RM29.93,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/606.jpeg,Soft Matte Lip Cream Tokyo,MIKASERIES,RM39.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/607.jpeg,Professional Liquid Matte Lipstick Irresisti PVM01,IN2IT,RM22.41,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/608.jpeg,Matte Styler Slim Lipcolor Sleek,SILKYGIRL,RM31.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/609.jpeg,SG GEN MATTE LIP CRM 06 P.DREM,SILKYGIRL,RM26.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/610.jpeg,Matte Lip Cream 24 Cherry-Go-Round,WARDAH,RM26.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/611.jpeg,Matte Lip Cream 23 Rose and Shine,WARDAH,RM26.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/612.jpeg,Matte Lip Cream 22 Rouge Velvet,WARDAH,RM26.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/613.jpeg,Lip Monster Souffle Matte M06,KATE,RM61.83,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/614.jpeg,Lip Monster 109,KATE,RM61.83,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/615.jpeg,Lip Monster 108,KATE,RM61.83,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/616.jpeg,Lip Monster Souffle Matte M07,KATE,RM61.83,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/617.jpeg,Lip Monster Souffle Matte M08,KATE,RM61.83,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/618.jpeg,Watery Glow Lipstick 01,JUDYDOLL,RM49.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/619.jpeg,Long Lasting Soft Matte Lip Cream 09,JUDYDOLL,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/620.jpeg,Watery Glow Lipstick 10,JUDYDOLL,RM49.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/621.jpeg,Watery Glow Lipstick 07,JUDYDOLL,RM49.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/622.jpeg,Lip Mud P17,JUDYDOLL,RM39.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/623.jpeg,Lip Mud P16,JUDYDOLL,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/624.jpeg,Lip Mud P15,JUDYDOLL,RM39.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/625.jpeg,Lip Mud P12,JUDYDOLL,RM39.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/626.jpeg,Lip Mud P10,JUDYDOLL,RM39.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/627.jpeg,Lip Mud P08,JUDYDOLL,RM39.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/628.jpeg,Lip Mud P04,JUDYDOLL,RM39.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/629.jpeg,Lip Mud P29,JUDYDOLL,RM39.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/630.jpeg,Lip Mud P26,JUDYDOLL,RM39.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/631.jpeg,Lip Mud P22,JUDYDOLL,RM39.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/632.jpeg,Long Lasting Soft Matte Lip Cream 02,JUDYDOLL,RM39.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/633.jpeg,Long Lasting Soft Matte Lip Cream 04,JUDYDOLL,RM39.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/634.jpeg,Satin Kiss Lipstick White Wedding 3.5g,REVOLUTION,RM44.91,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/635.jpeg,Satin Kiss Lipstick Icon 3.5g,REVOLUTION,RM44.91,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/636.jpeg,Stay On Balm Rouge Tint T03,CANMAKE,RM42.41,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/637.jpeg,Stay On Balm Rouge 13,CANMAKE,RM42.41,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/638.jpeg,Stay On Balm Rouge 02,CANMAKE,RM42.41,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/639.jpeg,Lip Color Shied 05 Antique Rose,CEZANNE,RM34.93,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/640.jpeg,Lip Color Shied 03 Cocoa Brown,CEZANNE,RM34.93,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/641.jpeg,Lip Color Shied 04 Mellow Pink,CEZANNE,RM34.93,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/642.jpeg,Icy Glow 03 Holymoly,MUZIGAE MANSION,RM72.25,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/643.jpeg,Objet Water 004 Celeb,MUZIGAE MANSION,RM72.25,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/644.jpeg,Objet Liquid 006 Notable,MUZIGAE MANSION,RM72.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/645.jpeg,Objet Liquid 015 Pride,MUZIGAE MANSION,RM72.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/646.jpeg,Objet Liquid 018 Knockout,MUZIGAE MANSION,RM72.25,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/647.jpeg,Objet Liquid 009 Perception,MUZIGAE MANSION,RM72.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/648.jpeg,Objet Liquid 011 Poise,MUZIGAE MANSION,RM72.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/649.jpeg,Icy Glow 05 Tempting,MUZIGAE MANSION,RM72.25,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/650.jpeg,Objet Water 003 Posh,MUZIGAE MANSION,RM72.25,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/651.jpeg,Objet Water 002 Spicy,MUZIGAE MANSION,RM72.25,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/652.jpeg,Objet Liquid 002 Sequence,MUZIGAE MANSION,RM72.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/653.jpeg,Icy Glow 06 Cheshire,MUZIGAE MANSION,RM72.25,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/654.jpeg,OMBRELLA Lip Totem Tint - WDYT 1S,SOMEThinC,RM22.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/655.jpeg,OMBRELLA Lip Totem Tint - Underground 1S,SOMEThinC,RM22.50,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/656.jpeg,OMBRELLA Lip Totem Tint - Soul 1S,SOMEThinC,RM22.50,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/657.jpeg,OMBRELLA Lip Totem Tint - Savage 1S,SOMEThinC,RM22.50,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/658.jpeg,OMBRELLA Lip Totem Tint - Nikola 1S,SOMEThinC,RM22.50,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/659.jpeg,OMBRELLA Lip Totem Tint - Hottie 1S,SOMEThinC,RM22.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/660.jpeg,OMBRELLA Lip Totem Tint - HAYG 1S,SOMEThinC,RM22.50,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/661.jpeg,OMBRELLA Lip Totem Tint - Doze 1S,SOMEThinC,RM22.50,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/662.jpeg,Idol Blurry Soft Lip Matte - Pokerface 1S,SOMEThinC,RM28.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/663.jpeg,Idol Blurry Soft Lip Matte - Encore 1S,SOMEThinC,RM28.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/664.jpeg,Idol Blurry Soft Lip Matte - Ambush 1S,SOMEThinC,RM28.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/665.jpeg,OMBRELLA Lip Totem Tint - WUCU 1S,SOMEThinC,RM22.50,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/666.jpeg,Garden Walk Lipstick Matte 04,ZA,RM31.92,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/667.jpeg,Garden Walk Lipstick Matte 01,ZA,RM31.92,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/668.jpeg,Fluffy Lip Matte C09 Cekap,BT'S,RM13.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/669.jpeg,Paint It Chestnut PI05,IN2IT,RM31.41,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/670.jpeg,Paint It Blossom PI03,IN2IT,RM31.41,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/671.jpeg,Paint It Poppy PI04,IN2IT,RM31.41,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/672.jpeg,Color Riche Slim Neiwai Lipstick 611Naked Hawthorn,L'OREAL PARIS MAKEUP,RM38.10,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/673.jpeg,Satin Kiss Lipstick Chaffuer 3.5g,REVOLUTION,RM44.91,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/674.jpeg,Satin Kiss Lipstick Decadence 3.5g,REVOLUTION,RM44.91,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/675.jpeg,Satin Kiss Lipstick Ruby 3.5g,REVOLUTION,RM44.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/676.jpeg,Satin Kiss Lipstick Rose 3.5g,REVOLUTION,RM44.91,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/677.jpeg,Satin Kiss Lipstick Fling 3.5g,REVOLUTION,RM44.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/678.jpeg,Satin Kiss Lipstick Heart Race 3.5g,REVOLUTION,RM44.91,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/679.jpeg,Superstay Vinyl Ink Music 30 Unrival,MAYBELLINE,RM42.32,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/680.jpeg,Water Blur Tint 08 Chilling,DASIQUE,RM47.60,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/681.jpeg,Water Blur Tint 09 Very Berry,DASIQUE,RM47.60,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/682.jpeg,Juicy Dewy Tint 06 Rose Apple,DASIQUE,RM54.40,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/683.jpeg,Cream De Rose Tint 01 Nudy Rose,DASIQUE,RM68.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/684.jpeg,Cream De Rose Tint 03 Dreaming,DASIQUE,RM68.00,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/685.jpeg,Juicy Dewy Tint 12 Sweet Marron,DASIQUE,RM54.40,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/686.jpeg,Water Blur Tint 02 Just Peach,DASIQUE,RM47.60,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/687.jpeg,Water Blur Tint 04 Rosy Coral,DASIQUE,RM47.60,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/688.jpeg,Juicy Dewy Tint 17 Fig Berry,DASIQUE,RM54.40,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/689.jpeg,Juicy Dewy Tint 16 Chili Sherbet,DASIQUE,RM54.40,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/690.jpeg,Cream De Rose Tint 04 Redwood,DASIQUE,RM68.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/691.jpeg,Fresh Colour Liquid Lipstick Berry Pink FCL06,SIMPLYSITI,RM34.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/692.jpeg,Lasting Mega Matte Liq Lip 930 Ruby Passion,RIMMEL,RM33.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/693.jpeg,Lasting Mega Matte Liq Lip 900 Ravishing Rose,RIMMEL,RM33.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/694.jpeg,Exclusive Matte Lip Cream 11Oh So Nude 1's,WARDAH,RM26.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/695.jpeg,Glasting Melting Balm 12 Veiled Rose,ROM&ND,RM59.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/696.jpeg,Watercolor Lip Serum 01 Dawn,EMINA,RM17.00,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/697.jpeg,Berry Makes Comfort Lip Matte 05,BARE N BLISS,RM32.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/698.jpeg,Extreme Shine Volume Lipgloss 07 Peach Please,ESSENCE,RM18.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/699.jpeg,Megalast  Lock n' Shine Lip Color Lotus Petal,WET N WILD,RM36.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/700.jpeg,Exclusive Matte Lip Cream 03 See You Latte 1's,WARDAH,RM26.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/701.jpeg,Fresh Bouquet Body Wash 1L,YUKA ZAN,RM16.90,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/702.jpeg,Chiffon Signature Lip 223 I Loose Up,L'OREAL PARIS MAKEUP,RM41.93,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/703.jpeg,Pout Bomb Plumping Gloss Glaze 4.6ml,REVOLUTION,RM44.91,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/704.jpeg,Megalast  Lock n' Shine Lip Color Nude Illusion,WET N WILD,RM36.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/705.jpeg,Simplicity Icy Glow Lip Serum 02 Sakura Shimmer,Y.O.U,RM17.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/706.jpeg,Watery Tint Lip 01 Natural Pink,CEZANNE,RM29.94,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/707.jpeg,Iced Tea Watery Lip Gloss N03,JUDYDOLL,RM39.90,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/708.jpeg,Kids Cough Syrup with Ivy Leaf Extract Plus 60ml,HURIX'S,RM17.91,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/709.jpeg,Infallible Matte Resistance Red 420 Le Rouge Paris,L'OREAL PARIS MAKEUP,RM47.53,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/710.jpeg,Infallible Matte Resistance Nude 115 Snooze Your Alarm,L'OREAL PARIS MAKEUP,RM47.53,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/711.jpeg,Cherry Makes Cheerful Lip Velvet 01,BARE N BLISS,RM32.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/712.jpeg,Sugar Twinkle Liquid Glitter 01 Glitter Wave,PERIPERA,RM35.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/713.jpeg,Creamytint 01 Brick Town 3.6 g,EMINA,RM18.00,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/714.jpeg,Watercolor Lip Serum 04 Haze,EMINA,RM17.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/715.jpeg,Glasting Melting Balm 13 Scotch Nude,ROM&ND,RM59.00,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/716.jpeg,Pout Bomb Plumping Gloss Sauce 4.6ml,REVOLUTION,RM44.91,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/717.jpeg,Chiffon Signature Lip 224 I Roll,L'OREAL PARIS MAKEUP,RM41.93,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/718.jpeg,Pout Bomb Plumping Gloss Cookie 4.6ml,REVOLUTION,RM44.91,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/719.jpeg,Exclusive Matte Lip Cream 10 Berry Pretty 1's,WARDAH,RM26.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/720.jpeg,Creamatte 11 Amazeballs 5.5 gr,EMINA,RM14.78,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/721.jpeg,Watercolor Lip Serum 02 Mist,EMINA,RM17.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/722.jpeg,Watercolor Lip Serum 03 Dusk,EMINA,RM17.00,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/723.jpeg,Glossy Stain 04 Peach Sprinkles 3 g,EMINA,RM22.50,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/724.jpeg,Creamatte 08 Pumpkin Spice 5.5 gr,EMINA,RM11.82,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/725.jpeg,Ink Glasting Lip Gloss 06 Made It,PERIPERA,RM59.00,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/726.jpeg,Infallible Matte Resistance Pink 230 Shopping Spree,L'OREAL PARIS MAKEUP,RM47.53,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/727.jpeg,Infallible Matte Resistance Nude 120 Major Crush,L'OREAL PARIS MAKEUP,RM47.53,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/728.jpeg,Chiffon Signature Lip 129 I Lead,L'OREAL PARIS MAKEUP,RM41.93,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/729.jpeg,Berry Makes Comfort Lip Matte 03,BARE N BLISS,RM32.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/730.jpeg,Exclusive Matte Lip Cream 08 Pinkcredible 1's,WARDAH,RM26.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/731.jpeg,Exclusive Matte Lip Cream 05 Speachless 1's,WARDAH,RM26.90,Dark,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/732.jpeg,Squeeze Me Up Lip Matte 01 Have a Picnic 6.5 g,EMINA,RM19.60,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/733.jpeg,Poppin Matte 01 Lowkey,EMINA,RM15.75,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/734.jpeg,REV HD MATTE LIP_655 HD KISSES,REVLON,RM42.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/735.jpeg,Lip2Cheek Flush 05 C.Bomb,SILKYGIRL,RM26.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/736.jpeg,Infallible Matte Resistance Pink 245 French Kiss,L'OREAL PARIS MAKEUP,RM47.53,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/737.jpeg,Filter Finish Lip Crème Americano Brown 1.8ml,REVOLUTION,RM44.91,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/738.jpeg,Megalast  Lock n' Shine Lip Color Big Pout Energy,WET N WILD,RM36.90,Light,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/739.jpeg,Cherry Makes Cheerful Lip Velvet 02,BARE N BLISS,RM32.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/740.jpeg,Cherry Makes Cheerful Lip Velvet 06,BARE N BLISS,RM32.90,Medium,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/741.jpeg,Glasting Melting Balm 06 Kaya Fig,ROM&ND,RM59.00,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/742.jpeg,Lush & Lustrous Jojoba Oil-Infused LG P61 Plush,BINTI'S,RM17.90,Medium,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/743.jpeg,Matte Junkie Lip Cream VT04 Vintage 1's,SILKYGIRL,RM26.01,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/744.jpeg,Exclusive Matte Lip Cream 02 Fuschionately 1's,WARDAH,RM26.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/745.jpeg,Exclusive Matte Lip Cream 04 Pink Me 1's,WARDAH,RM26.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/746.jpeg,MLBB Lip Tint 10 Heather,SILKYGIRL,RM18.32,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/747.jpeg,Simplicity Cotton Lip Clay R855 Rich Vine,Y.O.U,RM24.90,Light,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/748.jpeg,Simplicity Cotton Lip Clay O047 Salmon Nude,Y.O.U,RM24.90,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/749.jpeg,Magic Potion 03 Smitten 5.5 ml,EMINA,RM13.79,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/750.jpeg,Glossy Stain 05 Spring Dazzle 3 g,EMINA,RM22.50,Medium,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/751.jpeg,Creamytint 02 Peach Crush 3.6 g,EMINA,RM18.00,Dark,Normal
+https://imagesmfl.s3.amazonaws.com/lipstick_images/752.jpeg,Exclusive Matte Lip Cream 01 Red-Dicted 1's,WARDAH,RM26.90,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/753.jpg,Liquid Matte VM05 1's,IN2IT,RM14.34,Dark,Full
+https://imagesmfl.s3.amazonaws.com/lipstick_images/754.jpg,Lip2Cheek Flush 03 P.Splash,SILKYGIRL,RM26.91,Light,Thin
+https://imagesmfl.s3.amazonaws.com/lipstick_images/755.jpg,Colorstay Micro Liquid Liner 301 Blackout,REVLON,RM30.73,Medium,Full

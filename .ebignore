@@ -1,0 +1,28 @@
+# Exclude virtual environment
+venv/
+
+# Exclude Git repository files
+.git/
+.gitignore
+
+# Exclude Python cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Exclude database files
+*.db
+
+# Exclude development and IDE settings
+.idea/
+.vscode/
+
+# Exclude test directories and files
+tests/
+*.test.*
+*.spec.*
+
+# Exclude other unnecessary files
+node_modules/
+*.log

@@ -1,0 +1,872 @@
+{
+    "detected_skin_type": "Oily",
+    "detected_skin_tone": "Light",
+    "mapped_skin_type": "Oily",
+    "mapped_skin_tone": "Light",
+    "recommendations": [
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/6.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF 220 Natural Beige",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/7.jpeg",
+            "product_name": "Lightening Liquid Foundation 02 Beige 25 ml",
+            "product_category": "WARDAH",
+            "price": 15.92,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/8.jpeg",
+            "product_name": "Lightening Liquid Foundation 01 Light Beige 25 ml",
+            "product_category": "WARDAH",
+            "price": 15.92,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/10.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  120 Classic Ivory",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/12.jpeg",
+            "product_name": "True Match Liquid Foundation N1 Nude Ivory 1pc",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 53.13,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/14.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  115 Ivory",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/15.jpeg",
+            "product_name": "Cloud Touch Blurring Skin Tint N504 Rose Vanilla",
+            "product_category": "Y.O.U",
+            "price": 36.47,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/16.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  112 Natural Ivory",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/20.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF 235 Pure Beige",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/21.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  109 Light Ivory",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/22.jpeg",
+            "product_name": "Clrfit Velvet Powder Foundation 22N Light Ivory",
+            "product_category": "WARDAH",
+            "price": 22.32,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/23.jpeg",
+            "product_name": "True Match Liquid Foundation F2 Porcelain 1's",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 75.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/24.jpeg",
+            "product_name": "Matte All Day Serum Foundation 02 Natural Beige",
+            "product_category": "SILKYGIRL",
+            "price": 31.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/27.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  125 Nude Beige",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/28.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  110 Porcelain",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/34.jpeg",
+            "product_name": "All Day Perfect Serum Foundation 01 Vanilla",
+            "product_category": "SKINTIFIC",
+            "price": 55.2,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/37.jpeg",
+            "product_name": "Cloud Touch Blurring Skin Tint C203 Pink Sand",
+            "product_category": "Y.O.U",
+            "price": 36.47,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/39.jpeg",
+            "product_name": "Cloud Touch DFL Mesh Cushion C203 Pink Sand",
+            "product_category": "Y.O.U",
+            "price": 49.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/40.jpeg",
+            "product_name": "Extremematte Liquid Foundation C2",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/42.jpeg",
+            "product_name": "Clrfit Matte Foundation 22N Light Ivory",
+            "product_category": "WARDAH",
+            "price": 20.23,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/44.jpeg",
+            "product_name": "Clrfit Velvet Powder Foundation 11C Pink Fair",
+            "product_category": "WARDAH",
+            "price": 22.32,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/48.jpeg",
+            "product_name": "Infallible 32H Matte Cover Foundation 110",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 55.92,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/49.jpeg",
+            "product_name": "Skin Prefect Liquid Foundation 02 Natural",
+            "product_category": "SILKYGIRL",
+            "price": 26.01,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/51.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF  128 Warm Nude",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/52.jpeg",
+            "product_name": "Hooman Breathable UV Cushion SPF35 C01.5 Butter",
+            "product_category": "SOMETHINC",
+            "price": 55.25,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/54.jpeg",
+            "product_name": "Lasting Finish 35HR Foundation 100 Ivory",
+            "product_category": "RIMMEL",
+            "price": 49.41,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/55.jpeg",
+            "product_name": "Cloud Touch Blurring Skin Tint N402 Shell Ivory",
+            "product_category": "Y.O.U",
+            "price": 36.47,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/59.jpeg",
+            "product_name": "Infallible 32H Matte Cover Foundation 95",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 55.92,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/61.jpeg",
+            "product_name": "True Match Liquid Foundation N3 Nude Vanilla 1pc",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 53.13,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/62.jpeg",
+            "product_name": "Hooman Breathable UV Cushion SPF35 N01 Nina",
+            "product_category": "SOMETHINC",
+            "price": 55.25,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/67.jpeg",
+            "product_name": "ColorStay Powder Foundation 200 Nude Refill",
+            "product_category": "REVLON",
+            "price": 49.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/69.jpeg",
+            "product_name": "IRL Filter Longwear Foundation F2  23ml",
+            "product_category": "REVOLUTION",
+            "price": 83.61,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/70.jpeg",
+            "product_name": "Powermatte Liquid Foundation W1 30ml",
+            "product_category": "C.CODE",
+            "price": 36.47,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/73.jpeg",
+            "product_name": "Lasting Matte Foundation #100 IVORY (NEUTRAL)",
+            "product_category": "RIMMEL",
+            "price": 22.74,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/74.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF 215 Soft Bei",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/75.jpeg",
+            "product_name": "PHOTO FOCUS FOUNDATION NUDE IVORY E363C",
+            "product_category": "WET N WILD",
+            "price": 56.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/76.jpeg",
+            "product_name": "True Match Liquid Foundation G1 Vanilla Ivory 1pc",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 53.13,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/77.jpeg",
+            "product_name": "Everlast Cushion Foundation N10 Porcelain",
+            "product_category": "JUDYDOLL",
+            "price": 69.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/78.jpeg",
+            "product_name": "Instant Invisible Oil Control Powder Foundation Case",
+            "product_category": "ZA",
+            "price": 24.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/79.jpeg",
+            "product_name": "IRL Filter Longwear Foundation F3 23ml",
+            "product_category": "REVOLUTION",
+            "price": 83.61,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/80.jpeg",
+            "product_name": "Extremematte Liquid Foundation N2 1S",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/88.jpeg",
+            "product_name": "Matte All Day Serum Foundation 01 Ivory",
+            "product_category": "SILKYGIRL",
+            "price": 31.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/90.jpeg",
+            "product_name": "Mikadation Pro Foundation MD.1",
+            "product_category": "MIKASERIES",
+            "price": 69.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/93.jpeg",
+            "product_name": "Matt Mousse Make Up 04 Matt Ivory 1pc",
+            "product_category": "ESSENCE",
+            "price": 22.4,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/94.png",
+            "product_name": "Superstay Lumi Matte 110",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/97.jpeg",
+            "product_name": "Bright Up Liquid Foundation 01 Light",
+            "product_category": "SILKY WHITE",
+            "price": 13.23,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/98.jpeg",
+            "product_name": "Bright Up Liquid Foundation 02 Natural",
+            "product_category": "SILKY WHITE",
+            "price": 13.23,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/104.jpeg",
+            "product_name": "Powermatte Liquid Foundation W2 30ml",
+            "product_category": "C.CODE",
+            "price": 36.47,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/106.jpeg",
+            "product_name": "Clrfit Matte Foundation 11C Pink Fair",
+            "product_category": "WARDAH",
+            "price": 20.23,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/107.jpeg",
+            "product_name": "Fit Me Matte Liq Foundation SPF 130 Buff Beige",
+            "product_category": "MAYBELLINE",
+            "price": 36.98,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/108.jpeg",
+            "product_name": "Fit Me Matte Foundation 18ML TUBE 125 NUDE BEIGE",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/109.jpeg",
+            "product_name": "Fit Me Matte Foundation 18ML TUBE 115 IVORY",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/112.jpeg",
+            "product_name": "Lightening Liquid Foundation 05 Warm Ivory",
+            "product_category": "WARDAH",
+            "price": 15.92,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/117.jpeg",
+            "product_name": "Muse Pressed Foundation 04 Warm Mocca 6g",
+            "product_category": "DAZZLE ME",
+            "price": 18.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/118.jpeg",
+            "product_name": "Exclusive Liquid Foundation 02 SP 1's",
+            "product_category": "WARDAH",
+            "price": 26.95,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/119.jpeg",
+            "product_name": "Bright Up Liquid Foundation 03 Medium",
+            "product_category": "SILKY WHITE",
+            "price": 13.23,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/122.jpeg",
+            "product_name": "Real Cover Liquid Semi Matte 02",
+            "product_category": "KATE",
+            "price": 78.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/123.jpeg",
+            "product_name": "Real Cover Liquid Semi Matte 00",
+            "product_category": "KATE",
+            "price": 78.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/125.jpeg",
+            "product_name": "Long Lasting Foundation 21",
+            "product_category": "LUNA",
+            "price": 139.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/130.jpeg",
+            "product_name": "Clrfit Matte Foundation 23W Warm Ivory",
+            "product_category": "WARDAH",
+            "price": 20.23,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/132.jpeg",
+            "product_name": "Fit Me Matte Foundation 18ML TUBE 130 BUFF BEIGE",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/133.jpeg",
+            "product_name": "Fit Me Matte Foundation 18ML TUBE 120 CLASSIC IVOR",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/138.png",
+            "product_name": "Superstay Lumi Matte 125",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/140.png",
+            "product_name": "Superstay Lumi Matte 119",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/141.jpeg",
+            "product_name": "True Beauty Cushion 02 MediumBlossomBud",
+            "product_category": "BARE N BLISS",
+            "price": 49.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/143.jpeg",
+            "product_name": "Soft & Velvet Matte Powder Foundation 01 Porcelain",
+            "product_category": "JUDYDOLL",
+            "price": 59.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/157.jpeg",
+            "product_name": "Extremematte Liquid Foundation W1",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/162.jpeg",
+            "product_name": "Mega Fit Stick Foundation 01 Natural Ivory",
+            "product_category": "CHOSUNGAH22",
+            "price": 127.2,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/163.jpeg",
+            "product_name": "Stay All Day 16h Long-lasting Foundation 05 Soft Cream",
+            "product_category": "ESSENCE",
+            "price": 27.2,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/174.jpeg",
+            "product_name": "Exclusive Liquid Foundation 01 Light Beige 1's",
+            "product_category": "WARDAH",
+            "price": 26.95,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/175.jpeg",
+            "product_name": "PHOTO FOCUS FOUNDATION SOFT BEIGE E365C",
+            "product_category": "WET N WILD",
+            "price": 56.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/176.jpeg",
+            "product_name": "True Match Liquid Foundation G2 Gold Shell 1's",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 53.13,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/177.jpeg",
+            "product_name": "Matt Mousse Make Up 02 Matt Beige 1pc",
+            "product_category": "ESSENCE",
+            "price": 22.4,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/179.png",
+            "product_name": "Superstay Lumi Matte 111",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/180.png",
+            "product_name": "Superstay Lumi Matte 120",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/181.png",
+            "product_name": "Superstay Lumi Matte 128",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/184.png",
+            "product_name": "Superstay Lumi Matte 115",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/187.png",
+            "product_name": "Superstay Lumi Matte 123",
+            "product_category": "MAYBELLINE",
+            "price": 65.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/197.jpeg",
+            "product_name": "Soft & Velvet Matte Powder Foundation 02 Light",
+            "product_category": "JUDYDOLL",
+            "price": 59.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/207.jpeg",
+            "product_name": "Instant Invisible Oil Control Foundation  PO00",
+            "product_category": "ZA",
+            "price": 49.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/211.jpeg",
+            "product_name": "Instant Invisible Oil Control Foundation PO0W",
+            "product_category": "ZA",
+            "price": 49.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/212.jpeg",
+            "product_name": "Instant Invisible Oil Control Foundation OC20",
+            "product_category": "ZA",
+            "price": 49.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/213.jpeg",
+            "product_name": "Instant Invisible Oil Control Foundation OC10",
+            "product_category": "ZA",
+            "price": 49.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/229.jpeg",
+            "product_name": "Extremematte Liquid Foundation C3 1S",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/230.jpeg",
+            "product_name": "Extremematte Liquid Foundation N1 1S",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/232.jpeg",
+            "product_name": "Extremematte Liquid Foundation W2 1S",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/233.jpeg",
+            "product_name": "Extremematte Liquid Foundation N3 1S",
+            "product_category": "C.CODE",
+            "price": 32.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/246.jpeg",
+            "product_name": "Men Oil Control Liquid Foundation SPF30 PA+++ Sand MOQM101",
+            "product_category": "IN2IT MEN",
+            "price": 23.12,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/250.jpeg",
+            "product_name": "Double Lasting Foundation 21N1",
+            "product_category": "ETUDE HOUSE",
+            "price": 63.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/251.jpeg",
+            "product_name": "Double Lasting Foundation 25N1",
+            "product_category": "ETUDE HOUSE",
+            "price": 63.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/252.jpeg",
+            "product_name": "Double Lasting Foundation 23N1",
+            "product_category": "ETUDE HOUSE",
+            "price": 63.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/253.jpeg",
+            "product_name": "One Shot Cover Cushion 02 Sand Beige",
+            "product_category": "CHOSUNGAH22",
+            "price": 135.2,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/255.jpeg",
+            "product_name": "Mega Fit Stick Foundation 02 Natural Beige",
+            "product_category": "CHOSUNGAH22",
+            "price": 127.2,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/258.jpeg",
+            "product_name": "Bounce Up Pact Ultra Set 01 Light Beige",
+            "product_category": "CHOSUNGAH22",
+            "price": 108.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/259.jpeg",
+            "product_name": "Bounce Up Pact Ultra Set 02 Sand Beige",
+            "product_category": "CHOSUNGAH22",
+            "price": 108.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/261.jpeg",
+            "product_name": "One Shot Cover Cushion 01 Light Beige",
+            "product_category": "CHOSUNGAH22",
+            "price": 135.2,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/267.jpeg",
+            "product_name": "Kill Cover New Matte Foundation Spf20 Pa 3 Linen",
+            "product_category": "CLIO",
+            "price": 165.0,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/269.jpeg",
+            "product_name": "Twin Pack Exclusive Liquid Fdtn 02 SP",
+            "product_category": "WARDAH",
+            "price": 37.76,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/270.jpeg",
+            "product_name": "Twin Pack Excl Two Way Cake 02 Light Beige 12 g",
+            "product_category": "WARDAH",
+            "price": 42.56,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/271.jpeg",
+            "product_name": "Real Cover Liquid Semi Matte 03",
+            "product_category": "KATE",
+            "price": 78.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/275.jpeg",
+            "product_name": "Kill Cover Fixer Cushion #3.0BY Linen",
+            "product_category": "CLIO",
+            "price": 148.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/280.jpeg",
+            "product_name": "Matte All Day Serum Foundation 03 Buff",
+            "product_category": "SILKYGIRL",
+            "price": 31.5,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/281.jpeg",
+            "product_name": "Perfect Cover DD Cream Light 40ml",
+            "product_category": "DR. WU",
+            "price": 89.4,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/282.jpeg",
+            "product_name": "Infallible 32H Matte Cover Foundation 30",
+            "product_category": "L'OREAL PARIS MAKEUP",
+            "price": 55.92,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/289.jpeg",
+            "product_name": "Fit Me Matte Foundation 18ML TUBE 128 WARM NUDE",
+            "product_category": "MAYBELLINE",
+            "price": 39.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/292.jpeg",
+            "product_name": "PHOTO FOCUS FOUNDATION GOLDEN BEIGE E368C",
+            "product_category": "WET N WILD",
+            "price": 56.9,
+            "skin_type": "Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/294.jpeg",
+            "product_name": "Cloud Touch DFL Mesh Cushion  N402 Shell Ivory",
+            "product_category": "Y.O.U",
+            "price": 49.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        },
+        {
+            "image_source": "https://imagesmfl.s3.amazonaws.com/foundation_images/295.jpeg",
+            "product_name": "Cloud Touch DFL Mesh Cushion N504 Rose Vani",
+            "product_category": "Y.O.U",
+            "price": 49.9,
+            "skin_type": "Normal, Oily",
+            "skin_tone": "Light"
+        }
+    ]
+}
